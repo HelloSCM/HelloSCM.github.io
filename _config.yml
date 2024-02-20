@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hengyuan Zhang (张恒源)"
-description              : "Master student at Tsinghua University. Focusing on NLP and data mining."
-repository               : "rattlesnakey/rattlesnakey.github.io"
+title                    : "Chenming SHANG (尚辰铭)"
+description              : "Master student at Tsinghua University. Focusing on Trustworthy AI (Interpretability and Genralization)."
+repository               : "HelloSCM/HelloSCM.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hengyuan Zhang (张恒源)"
+  name             : "Chenming SHANG (尚辰铭)"
   avatar           : "images/personal-image2.jpg"
   bio              : "Tsinghua University"
   location         : # 
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "zhang-hy22@mails.tsinghua.edu.cn"
+  email            : "scm22@mails.tsinghua.edu.cn"
   researchgate     : # "https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/rattlesnakey"
+  github           : # "https://github.com/rattlesnakey"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/hengyuan-zhang-117b4a236/" # e.g., "linkedin username"
+  linkedin         : # "https://www.linkedin.com/in/hengyuan-zhang-117b4a236/" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : #"https://orcid.org/0000-0001-9658-209X"
   pinterest        :
