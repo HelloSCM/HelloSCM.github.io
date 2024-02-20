@@ -27,7 +27,7 @@ Now I am looking for an intern or a research assistant position, and I also have
 # 🎓 Education
 <img class="svg" src="/images/logo-thu.svg" width="50pt"> Tsinghua University 
 <br>
-- *Aug. 2022 - Present*, Master's Degree in Electronic Information, GPA 3.93 / 4.0 (Top 7% of School)
+- *Aug. 2022 - Present*, Master's Degree in Electronic and Information Engineering, GPA 3.93 / 4.0 (Top 7% of School)
 
 <!-- <div><br></div> -->
 <!-- <br> -->
