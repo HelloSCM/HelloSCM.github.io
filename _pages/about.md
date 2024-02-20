@@ -17,10 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Chenming SHANG (尚辰铭).
-I am currently a master student (2nd year) in [Intelligent Interaction Group (IIG)](https://sites.google.com/view/iigroup-thu/home), Tsinghua University, supervised by Prof.[Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). I received my bachelor's degree in Intelligent Science and Technology from Sun Yat-sen University in 2022, advised by Prof.[Zhi Jin](https://scholar.google.com/citations?user=v70dNBoAAAAJ&hl=zh-CN&oi=ao).
-My research interests lie in cognitive science inspired AI and trustworthy AI, including interpretability and generalization. The research topics I am currently interested in are out-of-distribution generalization, concept based models, and causal inference. 
-Now I am looking for an intern or a research assistant position, and I also have plans to pursue a Ph.D. position.
+Hi! I am Chenming SHANG (尚辰铭).
+I am currently a master student (2nd year) in [Intelligent Interaction Group (IIG)](https://sites.google.com/view/iigroup-thu/home), Tsinghua University, supervised by Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). I received my bachelor's degree in Intelligent Science and Technology from Sun Yat-sen University in 2022, advised by Prof. [Zhi Jin](https://scholar.google.com/citations?user=v70dNBoAAAAJ&hl=zh-CN&oi=ao).
+
+My research interests lie in cognitive science-inspired AI and trustworthy AI, including interpretability and generalization. The research topics I am currently interested in are compositional generalization, concept-based models, and causal inference. I hope to make AI spontaneously summarize concepts from data as human does, enabling the infinite combination of finite concepts to achieve generalization in unknown scenarios.
+
+Now I am looking for an intern or a research assistant position, and I also have plans to pursue a Ph.D. position. If you are willing to offer cooperation opportunities, please feel free to contact me.
 
 
 # 🎓 Education
