@@ -17,18 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-🤓 Hey folks! I am Hengyuan Zhang (张恒源).
-I am a master student at Tsinghua University from August 2022, under the supervision of Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). I received my Bachelor of Science degree at Beijing Language and Culture University (北京语言大学) in 2022. 
-During my undergraduate study, I interned at [AICLR](https://yuyanziyuan.blcu.edu.cn/index.htm) (语言资源高精尖创新中心) and Xiaomi AI Lab, where I was fortunate to work with Prof. [Liner Yang](https://yuyanziyuan.blcu.edu.cn/info/1032/2481.htm) and Dr. [Yanran Li](https://www.aminer.cn/profile/Yanran%20Li/53f42c51dabfaee02ac50cf3).
-My primary research interests are in the field of Natural Language Processing. Currently, I am conducting research on **Large Language Models** and their **interdisciplinary applications (e.g. educational technology and social science)**. 
-I am enthusiastic about exploring the potential of natural language processing to contribute to various fields of study.
+I am Chenming SHANG (尚辰铭).
+I am currently a master student (2nd year) in [Intelligent Interaction Group (IIG)](https://sites.google.com/view/iigroup-thu/home), Tsinghua University, supervised by Prof.[Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). I received my bachelor's degree in Intelligent Science and Technology from Sun Yat-sen University in 2022, advised by Prof.[Zhi Jin](https://scholar.google.com/citations?user=v70dNBoAAAAJ&hl=zh-CN&oi=ao).
+My research interests lie in cognitive science inspired AI and trustworthy AI, including interpretability and generalization. The research topics I am currently interested in are out-of-distribution generalization, concept based models, and causal inference. 
+Now I am looking for an intern or a research assistant position, and I also have plans to pursue a Ph.D. position.
 
- <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
-
-  
-
-
-<span class='anchor' id='-edu'></span>
 
 # 🎓 Education
 <img class="svg" src="/images/tsinghua-logo.png" width="50pt"> Tsinghua University 
