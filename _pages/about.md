@@ -145,7 +145,7 @@ Hengyuan Zhang, Dawei Li, Yanran Li, `Chenming Shang`, Chufan Shi, Yong Jiang
 
 Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin
 
-[[Paper]]([https://ieeexplore.ieee.org/document/9428234]) | [[Code]]([https://github.com/FVL2020/Features_for_BMI_estimation])
+[[Paper]](https://ieeexplore.ieee.org/document/9428234) | [[Code]](https://github.com/FVL2020/Features_for_BMI_estimation)
 
 </div>
 </div>
