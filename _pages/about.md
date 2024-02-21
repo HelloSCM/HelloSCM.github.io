@@ -90,7 +90,6 @@ Now I am looking for an intern or a research assistant position, and I also have
 `Chenming Shang`, Shiji Zhou, Yujiu Yang, Yuwang Wang 
 - We establish a quantitative relationship between Parallelism Score (PS) in cognitive neuroscience and the compositional generalization (CG) ability of model representations.
 - To optimize the CG performance theoretically, we propose the incorporation of two regularization techniques, Parallelism Score Constraint and Minimal Distance Variance, to enhance the model CG ability.
-
 </div>
 </div>
 
@@ -102,7 +101,6 @@ Now I am looking for an intern or a research assistant position, and I also have
 - Our work primarily addresses the challenges of completeness, purity and precision in previous methods.
 - We utilize the multimodal model CLIP to extract and discover concepts, and design interpretable classification model to enhance the interpretability and few-shot generalization ability of the algorithm.
 - We propose the Incremental Residual Concept Bottleneck Models (Res-CBM) to address the challenge of concept completeness and the Concept Utilization Efficiency (CUE) metric to measure the descriptive efficiency of CBMs.
-
 </div>
 </div>
 
@@ -113,7 +111,6 @@ Now I am looking for an intern or a research assistant position, and I also have
 `Chenming Shang`, Hengyuan Zhang, Hao Wen, Yujiu Yang
 - We observe the long-tail distribution of concepts, based on which we propose a two-stage Concept Selection Model (CSM) to mine core concepts without introducing any human priors.
 - The concept greedy rough selection algorithm is applied to extract head concepts, and then the concept mask fine selection method performs the extraction of core concepts.
-
 </div>
 </div>
 
@@ -124,7 +121,6 @@ Now I am looking for an intern or a research assistant position, and I also have
 `Chenming Shang`, Zhi Jin
 - I complete my bachelor's thesis under the guidance of Prof. Jin Zhi, and get 95 points, ranking 1st in the major.
 - Based on the back-door intervention formula in causal inference, I propose a causal machine learning algorithm for confounders, applying in the recommendation system to solve the problems of popularity bias and conformity bias.
-
 </div>
 </div>
 
@@ -135,7 +131,6 @@ Now I am looking for an intern or a research assistant position, and I also have
 Hengyuan Zhang, Dawei Li, Yanran Li, `Chenming Shang`, Chufan Shi, Yong Jiang
 
 [[Paper]](https://arxiv.org/abs/2306.06058)
-
 </div>
 </div>
 
@@ -146,8 +141,10 @@ Hengyuan Zhang, Dawei Li, Yanran Li, `Chenming Shang`, Chufan Shi, Yong Jiang
 Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin
 
 [[Paper]](https://ieeexplore.ieee.org/document/9428234) | [[Code]](https://github.com/FVL2020/Features_for_BMI_estimation)
+</div>
+</div>
 
-
+<br>
 <span class='anchor' id='-honor'></span>
 
 # 🏅 Honors and Awards
