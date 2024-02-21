@@ -79,19 +79,18 @@ Now I am looking for an intern or a research assistant position, and I also have
 
 <span class='anchor' id='-pub'></span>
 
-# 📝 Publications
+# 📝 Projects
 \* denotes equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023 Main Conference</div><img src='images/emnlp2023-character.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence</div><img src='images/paper-ps.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Multi-level Contrastive Learning for Script-based Character Understanding**
+**Brain-inspired Geometry Constraint on Representation for Compositional Generalization**(Ongoing)
+`Chenming Shang`, Shiji Zhou, Yujiu Yang, Yuwang Wang 
+- We establish a quantitative relationship between Parallelism Score (PS) in cognitive neuroscience and the compositional generalization (CG) ability of model representations.
+- To optimize the CG performance theoretically, we propose the incorporation of two regularization techniques, Parallelism Score Constraint and Minimal Distance Variance, to enhance the model CG ability.
 
-Dawei Li, `Hengyuan Zhang`, Yanran Li, Shiping Yang 
-
-[[Paper]](https://arxiv.org/pdf/2310.13231v1.pdf) | [[Code]](https://github.com/David-Li0406/Script-based-Character-Understanding)
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AACL 2022 Oral</div><img src='images/def-gen-contrast.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
