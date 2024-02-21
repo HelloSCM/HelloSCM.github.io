@@ -23,7 +23,7 @@ My research interests lie in **cognitive science-inspired AI** and **trustworthy
 
 Now I am looking for an intern or a research assistant position, and I also have plans to pursue a Ph.D. position. If you are willing to offer cooperation opportunities, please feel free to contact me.
 
-<span class='anchor' id='-education'></span>
+<span class='anchor' id='-edu'></span>
 
 # 🎓 Education
 <img class="svg" src="/images/logo-thu.svg" width="50pt"> Tsinghua University 
