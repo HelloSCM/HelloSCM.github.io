@@ -150,7 +150,6 @@ Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin
 </div>
 </div>
 
-<br>
 <span class='anchor' id='-honor'></span>
 
 # 🏅 Honors and Awards
