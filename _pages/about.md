@@ -142,27 +142,17 @@ Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin
 <span class='anchor' id='-honor'></span>
 
 # 🏅 Honors and Awards
-👉  National Scholarship
-
-👉  Tsinghua University College Comprehensive Second Class Scholarship
-
-👉  Sun Yat-Sen University Outstanding Student First-Class Scholarship
-
-👉  Sun Yat-Sen University Academic Innovation Scholarship
-
-👉  Samsung Scholarship
-
-👉  ECCV 2022 NICO Hybrid Context Generalization Challenge, finalist
-
-👉  CVPR 2020 NTIRE Perceptual Extreme Super-Resolution, the 7th
-
-👉  PCIC 2022 Causal Inference and Transfer Learning, the 9th
-
-👉  China RPA+AI Developer Competition, 1st Prize
-
-👉  College Student Intelligent Technology Application Competition, 1st Prize
-
-👉  Pricewaterhouse Coopers' STEM Challenge, the 2nd
+- National Scholarship
+- Tsinghua University College Comprehensive Second Class Scholarship
+- Sun Yat-Sen University Outstanding Student First-Class Scholarship
+- Sun Yat-Sen University Academic Innovation Scholarship
+- Samsung Scholarship
+- ECCV 2022 NICO Hybrid Context Generalization Challenge, finalist
+- CVPR 2020 NTIRE Perceptual Extreme Super-Resolution, the 7th
+- PCIC 2022 Causal Inference and Transfer Learning, the 9th
+- China RPA+AI Developer Competition, 1st Prize
+- College Student Intelligent Technology Application Competition, 1st Prize
+- Pricewaterhouse Coopers' STEM Challenge, the 2nd
 
 👉  Contemporary Undergraduate Mathematical Contest in Modeling, 2nd Prize
 
