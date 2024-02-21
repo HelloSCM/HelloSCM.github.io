@@ -93,13 +93,25 @@ Now I am looking for an intern or a research assistant position, and I also have
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AACL 2022 Oral</div><img src='images/def-gen-contrast.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2024</div><img src='images/paper-csm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Fine-grained Contrastive Learning for Definition Generation**
+**Understanding Multimodal Deep Neural Networks: A Concept Selection View** *(Under Review)*
 
-`Hengyuan Zhang`\*, Dawei Li\*, Shiping Yang, Yanran Li
+`Chenming Shang`, Hengyuan Zhang, Hao Wen, Yujiu Yang
+- We observe the long-tail distribution of concepts, based on which we propose a two-stage Concept Selection Model (CSM) to mine core concepts without introducing any human priors.
+- The concept greedy rough selection algorithm is applied to extract head concepts, and then the concept mask fine selection method performs the extraction of core concepts.
 
-[[Paper]](https://arxiv.org/abs/2210.00543) | [[Code]](https://github.com/rattlesnakey/Definition-Gneration-Contrastive)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/paper-rescbm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Incremental Residual Concept Bottleneck Models** *(Under Review)*
+
+`Chenming Shang`, Shiji Zhou, Hengyuan Zhang, Yujiu Yang, Yuwang Wang 
+- We utilize the multimodal model CLIP to extract and discover concepts, and design interpretable classification model to enhance the interpretability and few-shot generalization ability of the algorithm.
+- We propose the Incremental Residual Concept Bottleneck Models (Res-CBM) to address the challenge of concept completeness and the Concept Utilization Efficiency (CUE) metric to measure the descriptive efficiency of CBMs.
+
 </div>
 </div>
 
