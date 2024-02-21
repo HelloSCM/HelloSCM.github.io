@@ -116,6 +116,17 @@ Now I am looking for an intern or a research assistant position, and I also have
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SYSU Bachelor's Thesis</div><img src='images/paper-thesis.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Back-door Intervention based Causal Machine Learning Algorithm for Confounders**
+
+`Chenming Shang`, Zhi Jin
+- I complete my bachelor's thesis under the guidance of Prof. Jin Zhi, and get 95 points, ranking 1st in the major.
+- Based on the back-door intervention formula in causal inference, I propose a causal machine learning algorithm for confounders, applying in the recommendation system to solve the problems of popularity bias and conformity bias.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023 BEA Workshop</div><img src='images/paper-aclworkshop.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Assisting Language Learners: Automated Trans-Lingual Definition Generation via Contrastive Prompt Learning**
