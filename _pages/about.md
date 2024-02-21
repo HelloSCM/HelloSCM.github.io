@@ -82,9 +82,9 @@ Now I am looking for an intern or a research assistant position, and I also have
 # 📝 Projects
 \* denotes equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence</div><img src='images/paper-ps.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence (Ongoing)</div><img src='images/paper-ps.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Brain-inspired Geometry Constraint on Representation for Compositional Generalization** *(Ongoing)*
+**Brain-inspired Geometry Constraint on Representation for Compositional Generalization**
 
 `Chenming Shang`, Shiji Zhou, Yujiu Yang, Yuwang Wang 
 - We establish a quantitative relationship between Parallelism Score (PS) in cognitive neuroscience and the compositional generalization (CG) ability of model representations.
@@ -93,9 +93,21 @@ Now I am looking for an intern or a research assistant position, and I also have
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2024</div><img src='images/paper-csm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 (Under Review)</div><img src='images/paper-rescbm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Understanding Multimodal Deep Neural Networks: A Concept Selection View** *(Under Review)*
+**Incremental Residual Concept Bottleneck Models**
+
+`Chenming Shang`, Shiji Zhou, Hengyuan Zhang, Yujiu Yang, Yuwang Wang 
+- Our work primarily addresses the challenges of completeness, purity and precision in previous methods.
+- We utilize the multimodal model CLIP to extract and discover concepts, and design interpretable classification model to enhance the interpretability and few-shot generalization ability of the algorithm.
+- We propose the Incremental Residual Concept Bottleneck Models (Res-CBM) to address the challenge of concept completeness and the Concept Utilization Efficiency (CUE) metric to measure the descriptive efficiency of CBMs.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2024 (Under Review)</div><img src='images/paper-csm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Understanding Multimodal Deep Neural Networks: A Concept Selection View**
 
 `Chenming Shang`, Hengyuan Zhang, Hao Wen, Yujiu Yang
 - We observe the long-tail distribution of concepts, based on which we propose a two-stage Concept Selection Model (CSM) to mine core concepts without introducing any human priors.
@@ -104,49 +116,27 @@ Now I am looking for an intern or a research assistant position, and I also have
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/paper-rescbm.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Incremental Residual Concept Bottleneck Models** *(Under Review)*
-
-`Chenming Shang`, Shiji Zhou, Hengyuan Zhang, Yujiu Yang, Yuwang Wang 
-- We utilize the multimodal model CLIP to extract and discover concepts, and design interpretable classification model to enhance the interpretability and few-shot generalization ability of the algorithm.
-- We propose the Incremental Residual Concept Bottleneck Models (Res-CBM) to address the challenge of concept completeness and the Concept Utilization Efficiency (CUE) metric to measure the descriptive efficiency of CBMs.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023 BEA Workshop</div><img src='images/prompt-contrast-def-gen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023 BEA Workshop</div><img src='images/paper-zhyworkshop.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Assisting Language Learners: Automated Trans-Lingual Definition Generation via Contrastive Prompt Learning**
 
-`Hengyuan Zhang`, Dawei Li, Yanran Li, Chenming Shang, Chufan Shi, Yong Jiang
+Hengyuan Zhang, Dawei Li, Yanran Li, `Chenming Shang`, Chufan Shi, Yong Jiang
 
 [[Paper]](https://arxiv.org/abs/2306.06058)
+
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022 Main Conference</div><img src='images/multitask-def-gen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2021</div><img src='images/paper-bmi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Multitasking Framework for Unsupervised Simple Definition Generation**
+**Seeing Health with Eyes: Feature Combination for Image-Based Human BMI Estimation**
 
-Cunliang Kong, Yun Chen, `Hengyuan Zhang`, Liner Yang, Erhong Yang
+Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin
 
-[[Paper]](https://arxiv.org/abs/2203.12926) | [[Code]](https://github.com/blcuicall/SimpDefiner)
+[[Paper]]([https://arxiv.org/abs/2203.12926](https://ieeexplore.ieee.org/document/9428234)) | [[Code]]([https://github.com/blcuicall/SimpDefiner](https://github.com/FVL2020/Features_for_BMI_estimation))
+
 </div>
 </div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2022 SemEval</div><img src='images/semeval.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**BLCU-ICALL at SemEval-2022 Task 1: Cross-Attention Multitasking Framework for Definition Modeling**
-
-Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong Yang
-
-[[Paper]](https://arxiv.org/abs/2204.07701) | [[Code]](https://github.com/blcuicall/SemEval2022-Task1-DM)
-</div>
-</div>
-
 
 <br>
 <span class='anchor' id='-honor'></span>
