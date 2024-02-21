@@ -167,7 +167,7 @@ Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin
 - Contemporary Undergraduate Mathematical Contest in Modeling, 2nd Prize
 
 
-<span class='anchor' id='leader'></span>
+<span class='anchor' id='-leader'></span>
 # 📌 Leaderships
 - World Institute of Politics, Economy and Technology, Youth Researcher
 - Research Center for Chinese Global Youth Summit, Youth Researcher
