@@ -9,11 +9,11 @@ main:
   - title: "Internships"
     url: "/#-intern"
 
-  - title: "Publications"
+  - title: "Projects"
     url: "/#-pub"
 
   - title: "Honors and Awards"
     url: "/#-honor"
 
-  - title: "Miscellaneous"
-    url: "/#-miscellaneous"
+  - title: "Leadership"
+    url: "/#-leader"
