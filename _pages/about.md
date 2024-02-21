@@ -142,25 +142,29 @@ Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin
 <span class='anchor' id='-honor'></span>
 
 # 🏅 Honors and Awards
-👉  Tsinghua University College Comprehensive First Class Scholarship (`院综合一等奖学金`), *2023*
+👉  National Scholarship
 
-👉  National Scholarship (`国家奖学金`), *2019*, *2020*, *2021*
+👉  Tsinghua University College Comprehensive Second Class Scholarship
 
-👉  Outstanding Graduate Student of Beijing (`北京市优秀毕业生`), *2021*
+👉  Sun Yat-Sen University Outstanding Student First-Class Scholarship
 
-👉  Excellent League Member of Beijing (`北京市优秀团员`), *2021*
+👉  Sun Yat-Sen University Academic Innovation Scholarship
 
-👉  Merit Student of Beijing (`北京市三好学生`), *2021*
+👉  Samsung Scholarship
 
-👉  Meritorious Winner, Interdisciplinary Contest in Modeling (ICM), *2021*
+👉  ECCV 2022 NICO Hybrid Context Generalization Challenge, finalist
 
-👉  Computer Design Competition National- Second Prize, *2020*
+👉  CVPR 2020 NTIRE Perceptual Extreme Super-Resolution, the 7th
 
-👉  CUMCM-Beijing Area First Prize, *2020*     
+👉  PCIC 2022 Causal Inference and Transfer Learning, the 9th
 
-👉  Xiaomi Third Hacker Marathon Excellence, *2022*
+👉  China RPA+AI Developer Competition, 1st Prize
 
-👉  Excellent Volunteer in BLCU, *2020*
+👉  College Student Intelligent Technology Application Competition, 1st Prize
+
+👉  Pricewaterhouse Coopers' STEM Challenge, the 2nd
+
+👉  Contemporary Undergraduate Mathematical Contest in Modeling, 2nd Prize
 
 
 <span class='anchor' id='miscellaneous'></span>
