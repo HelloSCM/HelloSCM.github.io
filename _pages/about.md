@@ -82,7 +82,7 @@ Now I am looking for an intern or a research assistant position, and I also have
 # 📝 Projects
 \* denotes equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence *(ongoing)*</div><img src='images/paper-ps.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence (ongoing)</div><img src='images/paper-ps.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Brain-inspired Geometry Constraint on Representation for Compositional Generalization**
 
@@ -93,7 +93,7 @@ Now I am looking for an intern or a research assistant position, and I also have
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 *(under review)*</div><img src='images/paper-rescbm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 (under review)</div><img src='images/paper-rescbm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Incremental Residual Concept Bottleneck Models**
 
@@ -105,7 +105,7 @@ Now I am looking for an intern or a research assistant position, and I also have
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2024 *(under review)*</div><img src='images/paper-csm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2024 (under review)</div><img src='images/paper-csm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Understanding Multimodal Deep Neural Networks: A Concept Selection View**
 
