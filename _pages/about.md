@@ -40,34 +40,40 @@ Now I am looking for an intern or a research assistant position, and I also have
 <span class='anchor' id='-intern'></span>
 
 # 💻 Interships
-<img class="svg" src="/images/icall.png" width="60pt">Advanced Innovation Center for Language Resources, Beijing 
+<img class="svg" src="/images/logo-bytedance.svg" width="60pt"> ByteDance, TikTok, Beijing 
 <br>
-- *Mar. 2019 - Jul. 2022*, Research Assistant, working with [Liner Yang](https://yuyanziyuan.blcu.edu.cn/info/1032/2481.htm)
-
-
-
-<img class="svg" src="/images/baidu.png" width="60pt">Baidu, Search Strategy Lab, Beijing
-<br>
-- *Mar. 2021 - Jul. 2021*, Engineering Intern, working with Ge Chen
+- *Jan. 2024 - Present*, Engineering Intern, Causal Inference and Recommendation System
 
 <!-- <br> -->
 
-<img class="svg" src="/images/xiaomi-logo.png" width="30pt"> Xiaomi, AI Lab, Beijing
+<img class="svg" src="/images/logo-lingjun.png" width="60pt"> Lingjun Invest, Beijing
 <br>
-- *Mar. 2022 - Sept. 2022*, Research Intern, working with [Yanran Li](https://www.aminer.cn/profile/Yanran%20Li/53f42c51dabfaee02ac50cf3)
-
+- *Oct. 2023 - Jan. 2024*, Algorithm Research Intern, Out-of-Distribution Generalization and Time Series
 
 <!-- <br> -->
 
-<img class="svg" src="/images/tencent-logo.png" width="60pt"> Tencent, AI Lab, Shenzhen
+<img class="svg" src="/images/logo-pjlab.png" width="60pt"> Shanghai Artificial Intelligence Laboratory, Beijing
 <br>
-- *Mar. 2023 - Jul. 2023*, Research Intern, working with [Wei Bi](https://scholar.google.com/citations?hl=zh-CN&user=aSJcgQMAAAAJ&view_op=list_works&sortby=pubdate)
+- *Apr. 2023 - Oct. 2023*, Algorithm Research Intern, Model Interpretability and Compositional Generalization
 
 <!-- <br> -->
 
-<img class="svg" src="/images/sensetime.png" width="60pt">Sensetime, Research, Shenzhen
+<img class="svg" src="/images/logo-baai.png" width="60pt"> Beijing Academy of Artificial Intelligence, Beijing
 <br>
-- *Aug. 2023 - Present*, Research Intern, working with [Fei Tan](https://scholar.google.com/citations?hl=zh-CN&user=IhYATC0AAAAJ&view_op=list_works&sortby=pubdate) and [Ziqing Yang]([text](https://scholar.google.com.hk/citations?user=cbYCaq4AAAAJ&hl=zh-CN))
+- *Jan. 2023 - Apr. 2023*, Algorithm Research Intern, Data-Centric AI and Model Interpretability
+
+<!-- <br> -->
+
+<img class="svg" src="/images/logo-sourcecode.jpg" width="60pt"> Source Code Capital, Shenzhen
+<br>
+- *Dec. 2021 - Apr. 2022*, Investment Analysis Intern, Artificial Intelligence
+
+<!-- <br> -->
+
+<img class="svg" src="/images/logo-huatai.png" width="60pt"> Huatai Securities, Shenzhen
+<br>
+- *Sep. 2021 - Dec. 2021*, Algorithm Research Intern, Time Series
+
 <!-- <br> -->
 
 
