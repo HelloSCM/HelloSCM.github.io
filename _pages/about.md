@@ -153,8 +153,7 @@ Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin
 - China RPA+AI Developer Competition, 1st Prize
 - College Student Intelligent Technology Application Competition, 1st Prize
 - Pricewaterhouse Coopers' STEM Challenge, the 2nd
-
-👉  Contemporary Undergraduate Mathematical Contest in Modeling, 2nd Prize
+- Contemporary Undergraduate Mathematical Contest in Modeling, 2nd Prize
 
 
 <span class='anchor' id='leader'></span>
