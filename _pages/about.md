@@ -84,7 +84,8 @@ Now I am looking for an intern or a research assistant position, and I also have
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence</div><img src='images/paper-ps.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Brain-inspired Geometry Constraint on Representation for Compositional Generalization**(Ongoing)
+**Brain-inspired Geometry Constraint on Representation for Compositional Generalization** *(Ongoing)*
+
 `Chenming Shang`, Shiji Zhou, Yujiu Yang, Yuwang Wang 
 - We establish a quantitative relationship between Parallelism Score (PS) in cognitive neuroscience and the compositional generalization (CG) ability of model representations.
 - To optimize the CG performance theoretically, we propose the incorporation of two regularization techniques, Parallelism Score Constraint and Minimal Distance Variance, to enhance the model CG ability.
