@@ -159,17 +159,11 @@ Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin
 
 <span class='anchor' id='leader'></span>
 # 📌 Leaderships
-- I am actually a person with a strong desire to share. In my spare time, I like writing blogs and sharing experiences on Redbook, [Wechat Official account](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0NTI3ODI2OQ==&scene=124#wechat_redirect) and [bilibili](https://space.bilibili.com/14709944?spm_id_from=333.1007.0.0) (阿源的NLP碎碎念).
-- I used to be a guitarist 🎸 in a band when I was in high school. Also, I love playing badminton 🏸, table tennis 🏓 and soccer ⚽️. During holidays, I will also seize any opportunity to travel around the world  ⛳️
-
-<div style="display: flex;">
-  <img src="images/life1.png" alt="Image 1" width="50%" />
-  <img src="images/life3.png" alt="Image 2" width="50%" />
-</div>
-
-<br>
-
-<div style="display: flex;">
-  <img src="images/life2.png" alt="Image 1" width="50%" />
-  <img src="images/life4.png" alt="Image 2" width="50%" />
-</div>
+- World Institute of Politics, Economy and Technology, Youth Researcher
+- Research Center for Chinese Global Youth Summit, Youth Researcher
+- Young Sustainable Impact, Member
+- National Supercomputer Center in Guangzhou, Popular Science Narrator
+- THU-SIGS Global Governance and International Organization Development Association, Vice President
+- Tsinghua University SIGS Career Development Center, Student Assistant
+- SYSU School of Intelligent Systems Engineering Men's Football Team, Captain
+- Sun Yat-sen University English Debate Team, Member
