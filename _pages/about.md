@@ -136,7 +136,7 @@ Hengyuan Zhang, Dawei Li, Yanran Li, `Chenming Shang`, Chufan Shi, Yong Jiang
 <div class='paper-box-text' markdown="1">
 **Seeing Health with Eyes: Feature Combination for Image-Based Human BMI Estimation**
 
-Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin (\* denotes equal contribution)
+Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin *(\* denotes equal contribution)*
 
 [[Paper]](https://ieeexplore.ieee.org/document/9428234) | [[Code]](https://github.com/FVL2020/Features_for_BMI_estimation)
 </div>
@@ -147,10 +147,11 @@ Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin (\* denote
 
 # 🏅 Honors and Awards
 - National Scholarship
+- Samsung Scholarship
 - Tsinghua University College Comprehensive Second-Class Scholarship
 - Sun Yat-Sen University Outstanding Student First-Class Scholarship
 - Sun Yat-Sen University Academic Innovation Scholarship
-- Samsung Scholarship
+- Sun Yat-sen University Innovative Smart Medical Interdisciplinary Talent Training Fund (Award Category) Scholarship
 - ECCV 2022 NICO Hybrid Context Generalization Challenge, Finalist
 - CVPR 2020 NTIRE Perceptual Extreme Super-Resolution, the 7th
 - PCIC 2022 Causal Inference and Transfer Learning, the 9th
