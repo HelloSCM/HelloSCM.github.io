@@ -47,7 +47,7 @@ Now I am looking for an intern or a research assistant position, and I also have
 
 <!-- <br> -->
 
-<img class="svg" src="/images/logo-lingjun.png" width="60pt"> Lingjun Invest, Beijing
+<img class="svg" src="/images/logo-lingjun.png" width="60pt"> Lingjun Investment, Beijing
 <br>
 - *Oct. 2023 - Jan. 2024*, Algorithm Research Intern, Out-of-Distribution Generalization and Time Series
 
@@ -149,11 +149,11 @@ Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin
 
 # 🏅 Honors and Awards
 - National Scholarship
-- Tsinghua University College Comprehensive Second Class Scholarship
+- Tsinghua University College Comprehensive Second-Class Scholarship
 - Sun Yat-Sen University Outstanding Student First-Class Scholarship
 - Sun Yat-Sen University Academic Innovation Scholarship
 - Samsung Scholarship
-- ECCV 2022 NICO Hybrid Context Generalization Challenge, finalist
+- ECCV 2022 NICO Hybrid Context Generalization Challenge, Finalist
 - CVPR 2020 NTIRE Perceptual Extreme Super-Resolution, the 7th
 - PCIC 2022 Causal Inference and Transfer Learning, the 9th
 - China RPA+AI Developer Competition, 1st Prize
