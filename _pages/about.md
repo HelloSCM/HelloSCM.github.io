@@ -151,7 +151,7 @@ Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin *(\* denot
 - Tsinghua University College Comprehensive Second-Class Scholarship
 - Sun Yat-Sen University Outstanding Student First-Class Scholarship
 - Sun Yat-Sen University Academic Innovation Scholarship
-- Sun Yat-sen University Innovative Smart Medical Interdisciplinary Talent Training Fund (Award Category) Scholarship
+- Sun Yat-sen University Innovative Smart Medical Interdisciplinary Talent Training Fund Scholarship
 - ECCV 2022 NICO Hybrid Context Generalization Challenge, Finalist
 - CVPR 2020 NTIRE Perceptual Extreme Super-Resolution, the 7th
 - PCIC 2022 Causal Inference and Transfer Learning, the 9th
