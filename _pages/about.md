@@ -81,8 +81,6 @@ Now I am looking for an intern or a research assistant position, and I also have
 <span class='anchor' id='-pub'></span>
 
 # 📝 Projects
-\* denotes equal contribution
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence (ongoing)</div><img src='images/paper-ps.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Brain-inspired Geometry Constraint on Representation for Compositional Generalization**
@@ -138,7 +136,7 @@ Hengyuan Zhang, Dawei Li, Yanran Li, `Chenming Shang`, Chufan Shi, Yong Jiang
 <div class='paper-box-text' markdown="1">
 **Seeing Health with Eyes: Feature Combination for Image-Based Human BMI Estimation**
 
-Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin
+Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin (\* denotes equal contribution)
 
 [[Paper]](https://ieeexplore.ieee.org/document/9428234) | [[Code]](https://github.com/FVL2020/Features_for_BMI_estimation)
 </div>
