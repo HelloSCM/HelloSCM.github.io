@@ -81,17 +81,7 @@ Now I am looking for an intern or a research assistant position, and I also have
 <span class='anchor' id='-pub'></span>
 
 # 📝 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence (ongoing)</div><img src='images/paper-ps.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Brain-inspired Geometry Constraint on Representation for Compositional Generalization**
-
-`Chenming Shang`, Shiji Zhou, Yujiu Yang, Yuwang Wang 
-- We establish a quantitative relationship between Parallelism Score (PS) in cognitive neuroscience and the compositional generalization (CG) ability of model representations.
-- To optimize the CG performance theoretically, we propose the incorporation of two regularization techniques, Parallelism Score Constraint and Minimal Distance Variance, to enhance the model CG ability.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 (under review)</div><img src='images/paper-rescbm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/paper-rescbm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Incremental Residual Concept Bottleneck Models**
 
@@ -99,6 +89,17 @@ Now I am looking for an intern or a research assistant position, and I also have
 - Our work primarily addresses the challenges of completeness, purity and precision in previous methods.
 - We utilize the multimodal model CLIP to extract and discover concepts, and design interpretable classification model to enhance the interpretability and few-shot generalization ability of the algorithm.
 - We propose the Incremental Residual Concept Bottleneck Models (Res-CBM) to address the challenge of concept completeness and the Concept Utilization Efficiency (CUE) metric to measure the descriptive efficiency of CBMs.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence (ongoing)</div><img src='images/paper-ps.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Brain-inspired Geometry Constraint on Representation for Compositional Generalization**
+
+`Chenming Shang`, Shiji Zhou, Yujiu Yang, Yuwang Wang 
+- We establish a quantitative relationship between Parallelism Score (PS) in cognitive neuroscience and the compositional generalization (CG) ability of model representations.
+- To optimize the CG performance theoretically, we propose the incorporation of two regularization techniques, Parallelism Score Constraint and Minimal Distance Variance, to enhance the model CG ability.
 </div>
 </div>
 
