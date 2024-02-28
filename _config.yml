@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Chenming SHANG (尚辰铭)"
 description              : "Master student at Tsinghua University. Focusing on Trustworthy AI (Interpretability and Genralization)."
-repository               : "HelloSCM/HelloSCM.github.io"
+repository               : "HelloSCM.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
