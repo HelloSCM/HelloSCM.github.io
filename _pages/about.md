@@ -86,6 +86,7 @@ Now I am looking for an intern or a research assistant position, and I also have
 **Incremental Residual Concept Bottleneck Models**
 
 `Chenming Shang`, Shiji Zhou, Hengyuan Zhang, Yujiu Yang, Yuwang Wang 
+
 [[Paper]](https://arxiv.org/abs/2404.08978) | [[Code]](https://github.com/HelloSCM/Res-CBM)
 - Our work primarily addresses the challenges of completeness, purity and precision in previous methods.
 - We utilize the multimodal model CLIP to extract and discover concepts, and design interpretable classification model to enhance the interpretability and few-shot generalization ability of the algorithm.
@@ -98,6 +99,7 @@ Now I am looking for an intern or a research assistant position, and I also have
 **Understanding Multimodal Deep Neural Networks: A Concept Selection View**
 
 `Chenming Shang`, Hengyuan Zhang, Hao Wen, Yujiu Yang
+
 [[Paper]](https://arxiv.org/abs/2404.08964)
 - We observe the long-tail distribution of concepts, based on which we propose a two-stage Concept Selection Model (CSM) to mine core concepts without introducing any human priors.
 - The concept greedy rough selection algorithm is applied to extract head concepts, and then the concept mask fine selection method performs the extraction of core concepts.
