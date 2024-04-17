@@ -85,7 +85,7 @@ Now I am looking for an intern or a research assistant position, and I also have
 <div class='paper-box-text' markdown="1">
 **Incremental Residual Concept Bottleneck Models**
 
-`Chenming Shang`, Shiji Zhou, Hengyuan Zhang, Yujiu Yang, Yuwang Wang 
+`Chenming Shang`, Shiji Zhou, Hengyuan Zhang, Xinzhe Ni, Yujiu Yang, Yuwang Wang 
 
 [[Paper]](https://arxiv.org/abs/2404.08978) | [[Code]](https://github.com/HelloSCM/Res-CBM)
 - Our work primarily addresses the challenges of completeness, purity and precision in previous methods.
