@@ -41,9 +41,15 @@ Now I am looking for an intern or a research assistant position, and I also have
 <span class='anchor' id='-intern'></span>
 
 # 💻 Interships
+<img class="svg" src="/images/logo-msra.png" width="60pt"> Microsoft Research, AI4Science, Beijing 
+<br>
+- *Apr. 2024 - Present*, Algorithm Research Intern, AI for Biology and Out-of-Distribution Generalization
+
+<!-- <br> -->
+
 <img class="svg" src="/images/logo-bytedance.svg" width="60pt"> ByteDance, TikTok, Beijing 
 <br>
-- *Jan. 2024 - Present*, Algorithm Engineering Intern, Causal Inference and Recommendation System
+- *Jan. 2024 - Apr. 2024*, Algorithm Engineering Intern, Causal Inference and Recommendation System
 
 <!-- <br> -->
 
