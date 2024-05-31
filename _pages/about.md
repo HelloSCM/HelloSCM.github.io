@@ -152,7 +152,7 @@ Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin *(\* denot
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2021</div><img src='images/paper-med.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Immunology</div><img src='images/paper-med.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Peripheral PD-1+NK Cells Could Predict the 28-day Mortality in Sepsis Patients**
 
