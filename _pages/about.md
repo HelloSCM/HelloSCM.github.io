@@ -152,6 +152,14 @@ Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin *(\* denot
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2021</div><img src='images/paper-med.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Peripheral PD-1+NK Cells Could Predict the 28-day Mortality in Sepsis Patients**
+
+Jia Tang, `Chenming Shang`, Yue Chang, Wei Jiang, Jun Xu, Leidan Zhang, Lianfeng Lu, Ling Chen, Xiaosheng Liu, Qingjia Zeng , Wei Cao, Taisheng Li
+</div>
+</div>
+
 <br>
 <span class='anchor' id='-honor'></span>
 
