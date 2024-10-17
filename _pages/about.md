@@ -87,6 +87,7 @@ Now I am looking for an intern or a research assistant position, and I also have
 <span class='anchor' id='-pub'></span>
 
 # 📝 Projects
+
 *Papers on **Computer Vision**:*
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/paper-rescbm.png' alt="sym" width="100%"></div></div>
@@ -108,21 +109,49 @@ Now I am looking for an intern or a research assistant position, and I also have
 
 `Chenming Shang`, Hengyuan Zhang, Hao Wen, Yujiu Yang
 
-[[Paper]](https://arxiv.org/abs/2404.08964)
+[[Paper]](https://arxiv.org/abs/2404.08964) | [Code]
 - We observe the long-tail distribution of concepts, based on which we propose a two-stage Concept Selection Model (CSM) to mine core concepts without introducing any human priors.
 - The concept greedy rough selection algorithm is applied to extract head concepts, and then the concept mask fine selection method performs the extraction of core concepts.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence (ongoing)</div><img src='images/paper-ps.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 (under review)</div><img src='images/paper-ps.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Brain-inspired Geometry Constraint on Representation for Compositional Generalization**
+**GeoCon: Compositional Generalization Through Geometric Constraints on Representation Structure**
 
-`Chenming Shang`, Shiji Zhou, Yujiu Yang, Yuwang Wang 
+`Chenming Shang`, Shiji Zhou, Hengyuan Zhang, Xinchen Zhang, Lei Ke, Yuwang Wang, Yujiu Yang 
 - We establish a quantitative relationship between Parallelism Score (PS) in cognitive neuroscience and the compositional generalization (CG) ability of model representations.
-- To optimize the CG performance theoretically, we propose the incorporation of two regularization techniques, Parallelism Score Constraint and Minimal Distance Variance, to enhance the model CG ability.
+- To optimize the CG performance theoretically, we propose the incorporation of two regularization techniques, Parallelism Score Maximization and Distance Variance Minimization, to enhance the model CG ability.
 </div>
 </div>
+
+
+*Papers on **Nature Language Processing**:*
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025 (under review)</div><img src='images/paper-multilingual.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+** ShifCon: Enhancing Non‑Dominant Language Capabilities with a Shift‑based Contrastive Framework**
+
+Hengyuan Zhang, `Chenming Shang`, Sizhe Wang, Dongdong Zhang, Feng Yao, Renliang Sun, Yiyao Yu, Yujiu Yang, Furu Wei
+
+[Paper]
+- Based on the singular value decomposition, we define the language subspace.
+- We then transfer the non‑dominant language space to the dominant language space through shift projection and leverage contrastive learning to further alignment.
+- The non‑dominant language can access richer information from the parameters of LLMs and improve comprehension capability.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023 BEA Workshop</div><img src='images/paper-aclworkshop.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Assisting Language Learners: Automated Trans-Lingual Definition Generation via Contrastive Prompt Learning**
+
+Hengyuan Zhang, Dawei Li, Yanran Li, `Chenming Shang`, Chufan Shi, Yong Jiang
+
+[[Paper]](https://arxiv.org/abs/2306.06058)
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SYSU Bachelor's Thesis</div><img src='images/paper-thesis.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -134,15 +163,6 @@ Now I am looking for an intern or a research assistant position, and I also have
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023 BEA Workshop</div><img src='images/paper-aclworkshop.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Assisting Language Learners: Automated Trans-Lingual Definition Generation via Contrastive Prompt Learning**
-
-Hengyuan Zhang, Dawei Li, Yanran Li, `Chenming Shang`, Chufan Shi, Yong Jiang
-
-[[Paper]](https://arxiv.org/abs/2306.06058)
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2021</div><img src='images/paper-bmi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
