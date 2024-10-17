@@ -88,6 +88,7 @@ Now I am looking for an intern or a research assistant position, and I also have
 
 # 📝 Projects
 
+ 
 *Papers on **Computer Vision**:*
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/paper-rescbm.png' alt="sym" width="100%"></div></div>
@@ -125,14 +126,14 @@ Now I am looking for an intern or a research assistant position, and I also have
 </div>
 </div>
 
-
+ 
 *Papers on **Nature Language Processing**:*
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025 (under review)</div><img src='images/paper-multilingual.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 ** ShifCon: Enhancing Non‑Dominant Language Capabilities with a Shift‑based Contrastive Framework**
 
-Hengyuan Zhang, `Chenming Shang`, Sizhe Wang, Dongdong Zhang, Feng Yao, Renliang Sun, Yiyao Yu, Yujiu Yang, Furu Wei
+Hengyuan Zhang\*, `Chenming Shang`\*, Sizhe Wang, Dongdong Zhang, Feng Yao, Renliang Sun, Yiyao Yu, Yujiu Yang, Furu Wei *(\* denotes equal contribution)*
 
 [Paper]
 - Based on the singular value decomposition, we define the language subspace.
@@ -152,6 +153,8 @@ Hengyuan Zhang, Dawei Li, Yanran Li, `Chenming Shang`, Chufan Shi, Yong Jiang
 </div>
 </div>
 
+ 
+*Papers on **Human‑Computer Interaction**:*
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SYSU Bachelor's Thesis</div><img src='images/paper-thesis.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -160,6 +163,17 @@ Hengyuan Zhang, Dawei Li, Yanran Li, `Chenming Shang`, Chufan Shi, Yong Jiang
 `Chenming Shang`, Zhi Jin
 - I complete my bachelor's thesis under the guidance of Prof. Jin Zhi, and get 95 points, ranking 1st in the major.
 - Based on the back-door intervention formula in causal inference, I propose a causal machine learning algorithm for confounders, applying in the recommendation system to solve the problems of popularity bias and conformity bias.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD 2024</div><img src='images/paper-edu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**A Question-centric Multi-experts Contrastive Learning Framework for Improving the Accuracy and Interpretability of Deep Sequential Knowledge Tracing Models**
+
+Hengyuan Zhang, Zitao Liu, `Chenming Shang`, Dawei Li, Yong Jiang
+
+[[Paper]](https://ieeexplore.ieee.org/document/9428234) | [[Code]](https://github.com/FVL2020/Features_for_BMI_estimation)
 </div>
 </div>
 
@@ -174,11 +188,26 @@ Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin *(\* denot
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Immunology</div><img src='images/paper-med.png' alt="sym" width="100%"></div></div>
+
+ 
+*Papers on **Interdisciplinary Science**:*
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Immunology (IF=5.7)</div><img src='images/paper-med.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Peripheral PD-1+NK Cells Could Predict the 28-day Mortality in Sepsis Patients**
 
 Jia Tang, `Chenming Shang`, Yue Chang, Wei Jiang, Jun Xu, Leidan Zhang, Lianfeng Lu, Ling Chen, Xiaosheng Liu, Qingjia Zeng , Wei Cao, Taisheng Li
+
+[[Paper]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11215063/)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> EBioMedicine (IF=9.7)</div><img src='images/paper-med-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Peripheral PD-1+NK Cells Could Predict the 28-day Mortality in Sepsis Patients**
+
+Jia Tang\*, `Chenming Shang`\*, Yue Chang, Wei Jiang, Jun Xu, Leidan Zhang, Lianfeng Lu, Ling Chen, Xiaosheng Liu, Qingjia Zeng , Wei Cao, Taisheng Li *(\* denotes equal contribution)*
 </div>
 </div>
 
@@ -188,7 +217,7 @@ Jia Tang, `Chenming Shang`, Yue Chang, Wei Jiang, Jun Xu, Leidan Zhang, Lianfeng
 # 🏅 Honors and Awards
 - National Scholarship
 - Samsung Scholarship
-- Tsinghua University College Comprehensive Second-Class Scholarship
+- Tsinghua University Comprehensive First-Class Scholarship
 - Sun Yat-Sen University Outstanding Student First-Class Scholarship
 - Sun Yat-Sen University Academic Innovation Scholarship
 - Sun Yat-sen University Innovative Smart Medical Interdisciplinary Talent Training Fund Scholarship
