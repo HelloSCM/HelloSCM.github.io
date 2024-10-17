@@ -87,6 +87,8 @@ Now I am looking for an intern or a research assistant position, and I also have
 <span class='anchor' id='-pub'></span>
 
 # 📝 Projects
+*Papers on **Computer Vision**:*
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/paper-rescbm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Incremental Residual Concept Bottleneck Models**
