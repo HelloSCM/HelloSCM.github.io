@@ -205,7 +205,7 @@ Jia Tang, `Chenming Shang`, Yue Chang, Wei Jiang, Jun Xu, Leidan Zhang, Lianfeng
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> EBioMedicine, IF=9.7 (under review)</div><img src='images/paper-med-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Peripheral PD-1+NK Cells Could Predict the 28-day Mortality in Sepsis Patients**
+**Establishment of a Differential Diagnosis Method for AOSD and Lymphoma based on Random Forest Algorithm**
 
 Jia Tang\*, `Chenming Shang`\*, Yue Chang, Wei Jiang, Jun Xu, Leidan Zhang, Lianfeng Lu, Ling Chen, Xiaosheng Liu, Qingjia Zeng , Wei Cao, Taisheng Li *(\* denotes equal contribution)*
 </div>
