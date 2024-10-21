@@ -173,7 +173,7 @@ Hengyuan Zhang, Dawei Li, Yanran Li, `Chenming Shang`, Chufan Shi, Yong Jiang
 
 Hengyuan Zhang, Zitao Liu, `Chenming Shang`, Dawei Li, Yong Jiang
 
-[[Paper]](https://ieeexplore.ieee.org/document/9428234) | [[Code]](https://github.com/FVL2020/Features_for_BMI_estimation)
+[[Paper]](https://dl.acm.org/doi/10.1145/3674840) | [[Code]](https://github.com/rattlesnakey/Q-MCKT)
 </div>
 </div>
 
