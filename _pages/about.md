@@ -110,7 +110,7 @@ Now I am looking for an intern or a research assistant position, and I also have
 
 `Chenming Shang`, Hengyuan Zhang, Hao Wen, Yujiu Yang
 
-[[Paper]](https://arxiv.org/abs/2404.08964) | [Code]
+[[Paper]](https://arxiv.org/abs/2404.08964) | [[Code]](https://github.com/HelloSCM/Concept_Selection)
 - We observe the long-tail distribution of concepts, based on which we propose a two-stage Concept Selection Model (CSM) to mine core concepts without introducing any human priors.
 - The concept greedy rough selection algorithm is applied to extract head concepts, and then the concept mask fine selection method performs the extraction of core concepts.
 </div>
@@ -120,7 +120,9 @@ Now I am looking for an intern or a research assistant position, and I also have
 <div class='paper-box-text' markdown="1">
 **GeoCon: Compositional Generalization Through Geometric Constraints on Representation Structure**
 
-`Chenming Shang`, Shiji Zhou, Hengyuan Zhang, Xinchen Zhang, Lei Ke, Yuwang Wang, Yujiu Yang 
+`Chenming Shang`, Shiji Zhou, Hengyuan Zhang, Xinchen Zhang, Lei Ke, Yuwang Wang, Yujiu Yang
+
+[Paper]
 - We establish a quantitative relationship between Parallelism Score (PS) in cognitive neuroscience and the compositional generalization (CG) ability of model representations.
 - To optimize the CG performance theoretically, we propose the incorporation of two regularization techniques, Parallelism Score Maximization and Distance Variance Minimization, to enhance the model CG ability.
 </div>
