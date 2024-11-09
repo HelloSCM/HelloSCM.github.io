@@ -43,43 +43,37 @@ Now I am looking for an intern or a research assistant position, and I also have
 # 💻 Interships
 <img class="svg" src="/images/logo-msra.png" width="60pt"> Microsoft Research, AI4Science, Beijing 
 <br>
-- *Apr. 2024 - Present*, Algorithm Research Intern, AI for Biology and Out-of-Distribution Generalization
+- *June 2024 - Present*, Algorithm Research Intern, AI for Biology and Out-of-Distribution Generalization
 
 <!-- <br> -->
 
 <img class="svg" src="/images/logo-bytedance.svg" width="60pt"> ByteDance, TikTok, Beijing 
 <br>
-- *Jan. 2024 - Apr. 2024*, Algorithm Engineering Intern, Causal Inference and Recommendation System
-
-<!-- <br> -->
-
-<img class="svg" src="/images/logo-lingjun.png" width="60pt"> Lingjun Investment, Beijing
-<br>
-- *Oct. 2023 - Jan. 2024*, Algorithm Research Intern, Out-of-Distribution Generalization and Time Series
+- *Jan. 2024 - May 2024*, Algorithm Engineering Intern, Causal Inference and Recommendation System
 
 <!-- <br> -->
 
 <img class="svg" src="/images/logo-pjlab.png" width="60pt"> Shanghai Artificial Intelligence Laboratory, Beijing
 <br>
-- *Apr. 2023 - Oct. 2023*, Algorithm Research Intern, Model Interpretability and Compositional Generalization
+- *June 2023 - Dec. 2023*, Algorithm Research Intern, Model Interpretability and Compositional Generalization
 
 <!-- <br> -->
 
 <img class="svg" src="/images/logo-baai.png" width="60pt"> Beijing Academy of Artificial Intelligence, Beijing
 <br>
-- *Jan. 2023 - Apr. 2023*, Algorithm Research Intern, Data-Centric AI and Model Interpretability
+- *Jan. 2023 - June 2023*, Algorithm Research Intern, Data-Centric AI and Model Interpretability
 
 <!-- <br> -->
 
 <img class="svg" src="/images/logo-sourcecode.jpg" width="60pt"> Source Code Capital, Shenzhen
 <br>
-- *Dec. 2021 - Apr. 2022*, Investment Analysis Intern, Artificial Intelligence
+- *Dec. 2021 - May 2022*, Investment Analysis Intern, Artificial Intelligence
 
 <!-- <br> -->
 
 <img class="svg" src="/images/logo-huatai.png" width="60pt"> Huatai Securities, Shenzhen
 <br>
-- *Sep. 2021 - Dec. 2021*, Algorithm Research Intern, Time Series
+- *Aug. 2021 - Dec. 2021*, Algorithm Research Intern, Time Series
 
 <!-- <br> -->
 
