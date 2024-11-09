@@ -49,7 +49,7 @@ Now I am looking for an intern or a research assistant position, and I also have
 
 <img class="svg" src="/images/logo-bytedance.svg" width="60pt"> ByteDance, TikTok, Beijing 
 <br>
-- *Jan. 2024 - May 2024*, Algorithm Engineering Intern, Causal Inference and Recommendation System
+- *Jan. 2024 - June 2024*, Algorithm Engineering Intern, Causal Inference and Recommendation System
 
 <!-- <br> -->
 
@@ -152,7 +152,7 @@ Hengyuan Zhang, Dawei Li, Yanran Li, `Chenming Shang`, Chufan Shi, Yong Jiang
     
 *Papers on **Human‑Computer Interaction**:*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SYSU Bachelor's Thesis</div><img src='images/paper-thesis.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SYSU Bachelor's Thesis, Rank 1st</div><img src='images/paper-thesis.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Back-door Intervention based Causal Machine Learning Algorithm for Confounders**
 
@@ -163,7 +163,7 @@ Hengyuan Zhang, Dawei Li, Yanran Li, `Chenming Shang`, Chufan Shi, Yong Jiang
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD 2024</div><img src='images/paper-edu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD 2024, JCR Q1</div><img src='images/paper-edu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **A Question-centric Multi-experts Contrastive Learning Framework for Improving the Accuracy and Interpretability of Deep Sequential Knowledge Tracing Models**
 
@@ -188,7 +188,7 @@ Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin *(\* denot
     
 *Papers on **Interdisciplinary Science**:*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Immunology, IF=5.7</div><img src='images/paper-med.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Immunology, JCR Q1</div><img src='images/paper-med.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Peripheral PD-1+NK Cells Could Predict the 28-day Mortality in Sepsis Patients**
 
@@ -199,7 +199,7 @@ Jia Tang, `Chenming Shang`, Yue Chang, Wei Jiang, Jun Xu, Leidan Zhang, Lianfeng
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> EBioMedicine, IF=9.7 (under review)</div><img src='images/paper-med-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> EBioMedicine, JCR Q1 (under review)</div><img src='images/paper-med-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Establishment of a Differential Diagnosis Method for AOSD and Lymphoma based on Random Forest Algorithm**
 
