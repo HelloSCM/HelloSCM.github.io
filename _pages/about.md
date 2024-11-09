@@ -131,7 +131,7 @@ Now I am looking for an intern or a research assistant position, and I also have
 
 Hengyuan Zhang\*, `Chenming Shang`\*, Sizhe Wang, Dongdong Zhang, Feng Yao, Renliang Sun, Yiyao Yu, Yujiu Yang, Furu Wei *(\* denotes equal contribution)*
 
-[[Paper]](https://arxiv.org/abs/2410.19453)
+[[Paper]](https://arxiv.org/abs/2410.19453) | [[Code]](https://github.com/rattlesnakey/ShifCon)
 - Based on the singular value decomposition, we define the language subspace.
 - We then transfer the non‑dominant language space to the dominant language space through shift projection and leverage contrastive learning to further alignment.
 - The non‑dominant language can access richer information from the parameters of LLMs and improve comprehension capability.
