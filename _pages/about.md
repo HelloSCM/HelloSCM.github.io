@@ -110,9 +110,9 @@ Now I am looking for an intern or a research assistant position, and I also have
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 (under review)</div><img src='images/paper-ps.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence (under review)</div><img src='images/paper-ps.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**GeoCon: Compositional Generalization Through Geometric Constraints on Representation Structure**
+**Compositional Generalization through Brain-inspired Geometric Constraints on Representation Structure**
 
 `Chenming Shang`, Shiji Zhou, Hengyuan Zhang, Xinchen Zhang, Lei Ke, Yuwang Wang, Yujiu Yang
 
