@@ -137,7 +137,6 @@ Ling Yang, Xinchen Zhang, Ye Tian, `Chenming Shang`, Minghao Xu, Wentao Zhang, B
 Zhao Wang, Hao Wen, Lingting Zhu, `Chenming Shang`, Yujiu Yang, Qi Dou
 
 [[Paper]](https://www.arxiv.org/abs/2502.08189) | [[Code]](https://github.com/AnyCharV/AnyCharV)
-
 </div>
 </div>
 
