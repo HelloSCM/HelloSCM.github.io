@@ -83,8 +83,7 @@ Now I am looking for an intern or a research assistant position, and I also have
 # 📝 Projects
 
     
-## *Papers on **Computer Vision**:*
-<font color="blue">这段文字会显示为蓝色。</font>
+## <font color="blue"> *Papers on **Computer Vision**:* </font>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/paper-rescbm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -124,7 +123,7 @@ Now I am looking for an intern or a research assistant position, and I also have
 </div>
 
     
-*Papers on **Nature Language Processing**:*
+## <font color="blue"> *Papers on **Nature Language Processing**:* </font>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025 (under review)</div><img src='images/paper-multilingual.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -151,7 +150,7 @@ Hengyuan Zhang, Dawei Li, Yanran Li, `Chenming Shang`, Chufan Shi, Yong Jiang
 </div>
 
     
-*Papers on **Human‑Computer Interaction**:*
+## <font color="blue"> *Papers on **Human‑Computer Interaction**:* </font>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SYSU Bachelor's Thesis, Rank 1st</div><img src='images/paper-thesis.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -184,10 +183,8 @@ Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin *(\* denot
 [[Paper]](https://ieeexplore.ieee.org/document/9428234) | [[Code]](https://github.com/FVL2020/Features_for_BMI_estimation)
 </div>
 </div>
-
-
     
-*Papers on **Interdisciplinary Science**:*
+## <font color="blue"> *Papers on **Interdisciplinary Science**:* </font>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Immunology, JCR Q1</div><img src='images/paper-med.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
