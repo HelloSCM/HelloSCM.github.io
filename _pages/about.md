@@ -110,7 +110,7 @@ Now I am looking for an intern or a research assistant position, and I also have
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence (under review)</div><img src='images/paper-ps.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/paper-ps.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Compositional Generalization through Brain-inspired Geometric Constraints on Representation Structure**
 
@@ -121,7 +121,7 @@ Now I am looking for an intern or a research assistant position, and I also have
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 (under review)</div><img src='images/paper-hermesflow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/paper-hermesflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation**
 
@@ -130,7 +130,7 @@ Ling Yang, Xinchen Zhang, Ye Tian, `Chenming Shang`, Minghao Xu, Wentao Zhang, B
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 (under review)</div><img src='images/paper-anycharv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/paper-anycharv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance**
 
@@ -143,7 +143,7 @@ Zhao Wang, Hao Wen, Lingting Zhu, `Chenming Shang`, Yujiu Yang, Qi Dou
     
 ## *Papers on **Nature Language Processing**:*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (under review)</div><img src='images/paper-multilingual.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/paper-multilingual.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **ShifCon: Enhancing Non‑Dominant Language Capabilities with a Shift‑based Contrastive Framework**
 
