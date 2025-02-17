@@ -83,7 +83,8 @@ Now I am looking for an intern or a research assistant position, and I also have
 # 📝 Projects
 
     
-*Papers on **Computer Vision**:*
+## *Papers on **Computer Vision**:*
+<font color="blue">这段文字会显示为蓝色。</font>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/paper-rescbm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
