@@ -150,7 +150,7 @@ Hengyuan Zhang, Dawei Li, Yanran Li, `Chenming Shang`, Chufan Shi, Yong Jiang
 </div>
 
     
-## <font color="blue"> *Papers on **Human‑Computer Interaction**:* </font>
+## *Papers on **Human‑Computer Interaction**:*
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SYSU Bachelor's Thesis, Rank 1st</div><img src='images/paper-thesis.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -184,7 +184,7 @@ Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin *(\* denot
 </div>
 </div>
     
-## <font color="blue"> *Papers on **Interdisciplinary Science**:* </font>
+<font color="blue"> *Papers on **Interdisciplinary Science**:* </font>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Immunology, JCR Q1</div><img src='images/paper-med.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
