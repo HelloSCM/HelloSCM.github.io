@@ -83,7 +83,7 @@ Now I am looking for an intern or a research assistant position, and I also have
 # 📝 Projects
 
     
-## <font color="blue"> *Papers on **Computer Vision**:* </font>
+## *Papers on **Computer Vision**:*
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/paper-rescbm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -116,16 +116,35 @@ Now I am looking for an intern or a research assistant position, and I also have
 
 `Chenming Shang`, Shiji Zhou, Hengyuan Zhang, Xinchen Zhang, Lei Ke, Yuwang Wang, Yujiu Yang
 
-[Paper]
 - We establish a quantitative relationship between Parallelism Score (PS) in cognitive neuroscience and the compositional generalization (CG) ability of model representations.
 - To optimize the CG performance theoretically, we propose the incorporation of two regularization techniques, Parallelism Score Maximization and Distance Variance Minimization, to enhance the model CG ability.
 </div>
 </div>
 
-    
-## <font color="blue"> *Papers on **Nature Language Processing**:* </font>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 (under review)</div><img src='images/paper-hermesflow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025 (under review)</div><img src='images/paper-multilingual.png' alt="sym" width="100%"></div></div>
+Ling Yang, Xinchen Zhang, Ye Tian, `Chenming Shang`, Minghao Xu, Wentao Zhang, Bin Cui
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 (under review)</div><img src='images/paper-anycharv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance**
+
+Zhao Wang, Hao Wen, Lingting Zhu, `Chenming Shang`, Yujiu Yang, Qi Dou
+
+[[Paper]](https://www.arxiv.org/abs/2502.08189) | [[Code]](https://github.com/AnyCharV/AnyCharV)
+
+</div>
+</div>
+
+    
+## *Papers on **Nature Language Processing**:*
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (under review)</div><img src='images/paper-multilingual.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **ShifCon: Enhancing Non‑Dominant Language Capabilities with a Shift‑based Contrastive Framework**
 
@@ -184,7 +203,7 @@ Junjia Huang\*, `Chenming Shang`\*, Aolin Xiong, Yuxian Pang, Zhi Jin *(\* denot
 </div>
 </div>
     
-<font color="blue"> *Papers on **Interdisciplinary Science**:* </font>
+## *Papers on **Interdisciplinary Science**:*
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Immunology, JCR Q1</div><img src='images/paper-med.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
