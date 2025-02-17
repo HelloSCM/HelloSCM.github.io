@@ -215,7 +215,7 @@ Jia Tang, `Chenming Shang`, Yue Chang, Wei Jiang, Jun Xu, Leidan Zhang, Lianfeng
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> EBioMedicine, JCR Q1 (under review)</div><img src='images/paper-med-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/paper-med-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Establishment of a Differential Diagnosis Method for AOSD and Lymphoma based on Random Forest Algorithm**
 
