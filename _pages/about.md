@@ -143,7 +143,7 @@ Zhao Wang, Hao Wen, Lingting Zhu, `Chenming Shang`, Yujiu Yang, Qi Dou
     
 ## *Papers on **Nature Language Processing**:*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/paper-multilingual.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/paper-multilingual.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **ShifCon: Enhancing Non‑Dominant Language Capabilities with a Shift‑based Contrastive Framework**
 
