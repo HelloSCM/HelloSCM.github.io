@@ -175,6 +175,15 @@ Hengyuan Zhang, Dawei Li, Yanran Li, `Chenming Shang`, Chufan Shi, Yong Jiang
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/paper-persyn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Find Your Optimal Teacher: Personalized Data Synthesis via Router‑Guided Multi Teacher Distillation**
+
+Hengyuan Zhang, Shiping Yang, Xiao Liang, `Chenming Shang`
+</div>
+</div>
+
     
 ## *Papers on **Human‑Computer Interaction**:*
 
