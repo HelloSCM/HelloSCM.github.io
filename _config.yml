@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chenming SHANG (尚辰铭)"
-description              : "Master student at Tsinghua University. Focusing on Trustworthy AI (Interpretability and Genralization)."
+description              : "PhD student at Dartmouth College. Focusing on Trustworthy AI (Interpretability and Robustness)."
 repository               : "HelloSCM.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chenming SHANG (尚辰铭)"
   avatar           : "images/photo-v2.jpg"
-  bio              : "Tsinghua University"
+  bio              : "Dartmouth College"
   location         : # 
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XQHqeVQAAAAJ&hl=zh-CN&oi=ao"
-  email            : "scm22@mails.tsinghua.edu.cn"
+  email            : "scm102136@gmail.com"
   researchgate     : # "https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
@@ -161,4 +161,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
