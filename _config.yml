@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chenming SHANG (尚辰铭)"
-description              : "PhD student at <span style='color: #00693e;'>Dartmouth College</span>.<br>Focusing on Trustworthy AI (Interpretability and Robustness)."
+description              : 
 repository               : "HelloSCM.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chenming SHANG (尚辰铭)"
   avatar           : "images/photo-v2.jpg"
-  bio              : "Dartmouth College"
+  bio              : "<span style='color: #00693e;'>Dartmouth College</span>"
   location         : # 
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
