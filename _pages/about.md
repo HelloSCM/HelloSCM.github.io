@@ -29,7 +29,7 @@ I am keen on exploring opportunities for collaboration in research or projects. 
 <img class="svg" src="/images/logo-dartmouth.jpg" width="40pt"> <span style="color: #00693e;">**Dartmouth College**</span>
 <br>
 - *Sep. 2025 - Present*, Ph.D. in Computer Science
-- [The Science and Art of Human-AI Systems (SAHAS) Lab](https://www.sahaslab.com/)
+- [Science and Art of Human-AI Systems (SAHAS) Lab](https://www.sahaslab.com/)
 - Research Direction: Model Interpretability, Compositionality, AI Agent Applications
 
 <!-- <div><br></div> -->
@@ -56,39 +56,21 @@ I am keen on exploring opportunities for collaboration in research or projects. 
 <span class='anchor' id='-intern'></span>
 
 # 💻 Interships
-<img class="svg" src="/images/logo-msra.png" width="60pt"> Microsoft Research, AI4Science, Beijing 
+<img class="svg" src="/images/logo-msra.png" width="60pt"> Microsoft Research Asia, Beijing 
 <br>
-- *June 2024 - Present*, Algorithm Research Intern, AI for Biology and Out-of-Distribution Generalization
+- *Jun. 2024 - Mar. 2025*, Algorithm Research Intern, Multilingualism and Transfer Learning
 
 <!-- <br> -->
 
 <img class="svg" src="/images/logo-bytedance.svg" width="60pt"> ByteDance, TikTok, Beijing 
 <br>
-- *Jan. 2024 - June 2024*, Algorithm Engineering Intern, Causal Inference and Recommendation System
+- *Jan. 2024 - Jun. 2024*, Algorithm Engineering Intern, Recommendation Systems and Causal Inference
 
 <!-- <br> -->
 
 <img class="svg" src="/images/logo-pjlab.png" width="60pt"> Shanghai Artificial Intelligence Laboratory, Beijing
 <br>
-- *June 2023 - Dec. 2023*, Algorithm Research Intern, Model Interpretability and Compositional Generalization
-
-<!-- <br> -->
-
-<img class="svg" src="/images/logo-baai.png" width="60pt"> Beijing Academy of Artificial Intelligence, Beijing
-<br>
-- *Jan. 2023 - June 2023*, Algorithm Research Intern, Data-Centric AI and Model Interpretability
-
-<!-- <br> -->
-
-<img class="svg" src="/images/logo-sourcecode.jpg" width="60pt"> Source Code Capital, Shenzhen
-<br>
-- *Dec. 2021 - May 2022*, Investment Analysis Intern, Artificial Intelligence
-
-<!-- <br> -->
-
-<img class="svg" src="/images/logo-huatai.png" width="60pt"> Huatai Securities, Shenzhen
-<br>
-- *Aug. 2021 - Dec. 2021*, Algorithm Research Intern, Time Series
+- *Jan. 2023 - Dec. 2023*, Algorithm Research Intern, Model Interpretability and Out-of-Distribution Generalization
 
 <!-- <br> -->
 
@@ -136,12 +118,13 @@ I am keen on exploring opportunities for collaboration in research or projects. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/paper-hermesflow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/paper-hermesflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation**
 
 Ling Yang, Xinchen Zhang, Ye Tian, `Chenming Shang`, Minghao Xu, Wentao Zhang, Bin Cui
 
+[[Paper]](https://arxiv.org/abs/2502.12148) | [[Code]](https://github.com/Gen-Verse/HermesFlow)
 </div>
 </div>
 
@@ -168,6 +151,16 @@ Hengyuan Zhang\*, `Chenming Shang`\*, Sizhe Wang, Dongdong Zhang, Feng Yao, Renl
 - Based on the singular value decomposition, we define the language subspace.
 - We then transfer the non‑dominant language space to the dominant language space through shift projection and leverage contrastive learning to further alignment.
 - The non‑dominant language can access richer information from the parameters of LLMs and improve comprehension capability.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Complex & Intelligent Systems</div><img src='images/paper-bdekg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**BDEKD: Mitigating Backdoor Attacks in NLP Models via Ensemble Knowledge Distillation**
+
+Zijie Zhang, Xinyuan Miao, Chenyu Zhou, `Chenming Shang`, Xi Chen, Xianglong Kong, Wei Huang, Yi Cao
+
+[[Paper]](https://link.springer.com/article/10.1007/s40747-025-02006-4) | [[Code]](https://github.com/quanzhuangdefujinan/BDEKD-Research/tree/BDEKD)
 </div>
 </div>
 
