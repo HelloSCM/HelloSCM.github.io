@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Chenming SHANG (尚辰铭). I am currently a master student (3rd year) in [Intelligent Interaction Group (IIG)](https://sites.google.com/view/iigroup-thu/home), Tsinghua University, supervised by Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). I received my bachelor's degree in Intelligent Science and Technology from Sun Yat-sen University in 2022, advised by Prof. [Zhi Jin](https://scholar.google.com/citations?user=v70dNBoAAAAJ&hl=zh-CN&oi=ao).
+Hi! I am Chenming SHANG (尚辰铭). I am currently a PhD student (1st year) at Dartmouth College, coadvised by Prof. [Nikhil Singh](https://nsingh1.host.dartmouth.edu/) and Prof. [Adam Breuer](https://www.adambreuer.com/). Before that, I received my master’s degree from Tsinghua University supervised by Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN) in 2025, and my bachelor’s degree from Sun Yat‑sen University supervised by Prof. [Zhi Jin](https://scholar.google.com/citations?user=v70dNBoAAAAJ&hl=zh-CN&oi=ao) in 2022.
 
-My research interests lie in **cognitive science-inspired AI** and **trustworthy AI** in **multimodal models**, including **interpretability** and **generalization**. The research topics I am currently interested in are concept-based models, compositional generalization, and human‑computer interaction. I hope to make AI spontaneously summarize concepts from data as human does, enabling the infinite combination of finite concepts to achieve generalization in unknown scenarios. Meanwhile, I believe that in the current era of enhanced general AI capabilities, AI interaction with humans and human‑centered AI can create more value.
+My research interests lie in **cognitive science-inspired AI** and **trustworthy AI** in **multimodal models**, including **interpretability** and **robustness**. The research topics I am currently interested in are **concept-based models**, **compositional reasoning**, and **AI agent applications**. 
 
-Now I am looking for an intern or a research assistant position, and I also have plans to pursue a Ph.D. position on **2025 fall**. If you are willing to offer cooperation opportunities, please feel free to contact me.
+I am keen on exploring opportunities for collaboration in research or projects. If you are interested, please feel free to contact me.
 
 <span class='anchor' id='-edu'></span>
 
@@ -35,7 +35,7 @@ Now I am looking for an intern or a research assistant position, and I also have
 
 <img class="svg" src="/images/logo-sysu.png" width="50pt"> Sun Yat-sen University
 <br>
-- *Sept. 2018 - Jul. 2022*, Bachelor’s Degree in Intelligent Science and Technology, GPA 4.1 / 5.0 (Top 5% of Major)
+- *Sep. 2018 - Jul. 2022*, Bachelor’s Degree in Intelligent Science and Technology, GPA 4.1 / 5.0 (Top 5% of Major)
 
 
 <span class='anchor' id='-intern'></span>
