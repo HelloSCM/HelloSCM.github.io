@@ -154,7 +154,7 @@ Hengyuan Zhang\*, `Chenming Shang`\*, Sizhe Wang, Dongdong Zhang, Feng Yao, Renl
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Complex & Intelligent Systems</div><img src='images/paper-bdekg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Complex & Intelligent Systems</div><img src='images/paper-bdekd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **BDEKD: Mitigating Backdoor Attacks in NLP Models via Ensemble Knowledge Distillation**
 
@@ -256,7 +256,8 @@ Jia Tang\*, `Chenming Shang`\*, Yue Chang, Wei Jiang, Jun Xu, Leidan Zhang, Lian
 - National Scholarship
 - Samsung Scholarship
 - Tsinghua University Comprehensive First-Class Scholarship
-- Sun Yat-Sen University Outstanding Student First-Class Scholarship
+- Tsinghua University Professional Practice Third-Class Scholarship
+- Sun Yat-Sen University Comprehensive First-Class Scholarship
 - Sun Yat-Sen University Academic Innovation Scholarship
 - Sun Yat-sen University Innovative Smart Medical Interdisciplinary Talent Training Fund Scholarship
 - ECCV 2022 NICO Hybrid Context Generalization Challenge, Finalist
