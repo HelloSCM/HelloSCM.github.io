@@ -26,7 +26,7 @@ I am keen on exploring opportunities for collaboration in research or projects. 
 <span class='anchor' id='-edu'></span>
 
 # 🎓 Education
-<img class="svg" src="/images/logo-dartmouth.jpg" width="50pt"> <span style="color: #00693e;">**Dartmouth College**</span>
+<img class="svg" src="/images/logo-dartmouth.jpg" height="50pt"> <span style="color: #00693e; font-size: 18pt;">**Dartmouth College**</span>
 <br>
 - *Sep. 2025 - Present*, PhD in Computer Science
 - [The Science and Art of Human-AI Systems (SAHAS) Lab](https://www.sahaslab.com/)
@@ -35,14 +35,14 @@ I am keen on exploring opportunities for collaboration in research or projects. 
 <!-- <div><br></div> -->
 <!-- <br> -->
 
-<img class="svg" src="/images/logo-thu.svg" width="50pt"> Tsinghua University 
+<img class="svg" src="/images/logo-thu.svg" height="50pt"> Tsinghua University 
 <br>
 - *Aug. 2022 - Present*, Master's Degree in Electronic and Information Engineering, GPA 3.93 / 4.00 (Top 5% of School)
 
 <!-- <div><br></div> -->
 <!-- <br> -->
 
-<img class="svg" src="/images/logo-sysu.png" width="50pt"> Sun Yat-sen University
+<img class="svg" src="/images/logo-sysu.png" height="50pt"> Sun Yat-sen University
 <br>
 - *Sep. 2018 - Jul. 2022*, Bachelor’s Degree in Intelligent Science and Technology, GPA 4.1 / 5.0 (Top 5% of Major)
 
