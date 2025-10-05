@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chenming SHANG (尚辰铭)"
-description              : "PhD student at Dartmouth College. Focusing on Trustworthy AI (Interpretability and Robustness)."
+description              : "PhD student at <span style='color: #00693e;'>Dartmouth College</span>.<br>Focusing on Trustworthy AI (Interpretability and Robustness)."
 repository               : "HelloSCM.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
