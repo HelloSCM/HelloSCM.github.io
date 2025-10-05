@@ -187,17 +187,6 @@ Hengyuan Zhang, Shiping Yang, Xiao Liang, `Chenming Shang`
     
 ## *Papers on **Human‑Computer Interaction**:*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SYSU Bachelor's Thesis, Rank 1st</div><img src='images/paper-thesis.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Back-door Intervention based Causal Machine Learning Algorithm for Confounders**
-
-`Chenming Shang`, Zhi Jin
-- I complete my bachelor's thesis under the guidance of Prof. Jin Zhi, and get 95 points, ranking 1st in the major.
-- Based on the back-door intervention formula in causal inference, I propose a causal machine learning algorithm for confounders, applying in the recommendation system to solve the problems of popularity bias and conformity bias.
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD 2024, JCR Q1</div><img src='images/paper-edu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **A Question-centric Multi-experts Contrastive Learning Framework for Improving the Accuracy and Interpretability of Deep Sequential Knowledge Tracing Models**
