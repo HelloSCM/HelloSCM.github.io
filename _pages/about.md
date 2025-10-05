@@ -56,19 +56,19 @@ I am keen on exploring opportunities for collaboration in research or projects. 
 <span class='anchor' id='-intern'></span>
 
 # 💻 Interships
-<img class="svg" src="/images/logo-msra.png" width="60pt"> Microsoft Research Asia, Beijing 
+<img class="svg" src="/images/logo-msra.png" width="60pt"> **Microsoft Research Asia**, Beijing 
 <br>
-- *Jun. 2024 - Mar. 2025*, Algorithm Research Intern, Multilingualism and Transfer Learning
+- *Jun. 2024 - Mar. 2025*, Algorithm Research Intern, Transfer Learning and Multilingualism
 
 <!-- <br> -->
 
-<img class="svg" src="/images/logo-bytedance.svg" width="60pt"> ByteDance, TikTok, Beijing 
+<img class="svg" src="/images/logo-bytedance.svg" width="60pt"> **ByteDance**, **TikTok**, Beijing 
 <br>
 - *Jan. 2024 - Jun. 2024*, Algorithm Engineering Intern, Recommendation Systems and Causal Inference
 
 <!-- <br> -->
 
-<img class="svg" src="/images/logo-pjlab.png" width="60pt"> Shanghai Artificial Intelligence Laboratory, Beijing
+<img class="svg" src="/images/logo-pjlab.png" width="60pt"> **Shanghai Artificial Intelligence Laboratory**, Beijing
 <br>
 - *Jan. 2023 - Dec. 2023*, Algorithm Research Intern, Model Interpretability and Out-of-Distribution Generalization
 
