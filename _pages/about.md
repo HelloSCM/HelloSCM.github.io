@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Chenming SHANG (尚辰铭). I am currently a PhD student (1st year) at Dartmouth College, coadvised by Prof. [Nikhil Singh](https://nsingh1.host.dartmouth.edu/) and Prof. [Adam Breuer](https://www.adambreuer.com/). Before that, I received my master’s degree from Tsinghua University supervised by Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN) in 2025, and my bachelor’s degree from Sun Yat‑sen University supervised by Prof. [Zhi Jin](https://scholar.google.com/citations?user=v70dNBoAAAAJ&hl=zh-CN&oi=ao) in 2022.
+Hi! I am Chenming SHANG (尚辰铭). I am currently a Ph.D. student (1st year) at Dartmouth College, coadvised by Prof. [Nikhil Singh](https://nsingh1.host.dartmouth.edu/) and Prof. [Adam Breuer](https://www.adambreuer.com/). Before that, I received my master’s degree from Tsinghua University supervised by Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN) in 2025, and my bachelor’s degree from Sun Yat‑sen University supervised by Prof. [Zhi Jin](https://scholar.google.com/citations?user=v70dNBoAAAAJ&hl=zh-CN&oi=ao) in 2022.
 
 My research interests lie in **cognitive science-inspired AI** and **trustworthy AI** in multimodal models, including **interpretability** and **robustness**. The research topics I am currently interested in are **concept-based models**, **compositional reasoning**, and **AI agent applications**. 
 
@@ -26,28 +26,30 @@ I am keen on exploring opportunities for collaboration in research or projects. 
 <span class='anchor' id='-edu'></span>
 
 # 🎓 Education
-<img class="svg" src="/images/logo-dartmouth.jpg" width="40pt"> <span style="color: #00693e; font-size: 18pt;">**Dartmouth College**</span>
+<img class="svg" src="/images/logo-dartmouth.jpg" width="40pt"> <span style="color: #00693e;">**Dartmouth College**</span>
 <br>
-- *Sep. 2025 - Present*, PhD in Computer Science
+- *Sep. 2025 - Present*, Ph.D. in Computer Science
 - [The Science and Art of Human-AI Systems (SAHAS) Lab](https://www.sahaslab.com/)
 - Research Direction: Model Interpretability, Compositionality, AI Agent Applications
 
 <!-- <div><br></div> -->
 <!-- <br> -->
 
-<img class="svg" src="/images/logo-thu.svg" width="50pt"> <span style="color: #671372; font-size: 18pt;">**Tsinghua University**</span>
+<img class="svg" src="/images/logo-thu.svg" width="50pt"> <span style="color: #671372;">**Tsinghua University**</span>
 <br>
 - *Aug. 2022 - Present*, Master in Electronic and Information Engineering
 - GPA: 3.93 / 4.00 (Top 5% of School)
+- [Intelligent Interaction Group (IIGROUP)](https://iigroup.github.io/)
 - Master's Thesis: Brain-inspired Concept Representation Learning for Medical Applications
 
 <!-- <div><br></div> -->
 <!-- <br> -->
 
-<img class="svg" src="/images/logo-sysu.png" width="50pt"> <span style="color: #014822; font-size: 18pt;">**Sun Yat-sen University**</span>
+<img class="svg" src="/images/logo-sysu.png" width="50pt"> <span style="color: #014822;">**Sun Yat-sen University**</span>
 <br>
 - *Sep. 2018 - Jul. 2022*, Bachelor in Intelligent Science and Technology
 - GPA: 3.9 / 4.0 (Top 5% of Major)
+- [Frontier Vision Lab](https://fvl2020.framer.website/)
 - Bachelor's Thesis: Back-door Intervention based Causal Machine Learning Algorithm for Confounders
 
 
