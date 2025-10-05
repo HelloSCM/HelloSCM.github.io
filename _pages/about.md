@@ -19,13 +19,22 @@ redirect_from:
 
 Hi! I am Chenming SHANG (尚辰铭). I am currently a PhD student (1st year) at Dartmouth College, coadvised by Prof. [Nikhil Singh](https://nsingh1.host.dartmouth.edu/) and Prof. [Adam Breuer](https://www.adambreuer.com/). Before that, I received my master’s degree from Tsinghua University supervised by Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN) in 2025, and my bachelor’s degree from Sun Yat‑sen University supervised by Prof. [Zhi Jin](https://scholar.google.com/citations?user=v70dNBoAAAAJ&hl=zh-CN&oi=ao) in 2022.
 
-My research interests lie in **cognitive science-inspired AI** and **trustworthy AI** in **multimodal models**, including **interpretability** and **robustness**. The research topics I am currently interested in are **concept-based models**, **compositional reasoning**, and **AI agent applications**. 
+My research interests lie in **cognitive science-inspired AI** and **trustworthy AI** in multimodal models, including **interpretability** and **robustness**. The research topics I am currently interested in are **concept-based models**, **compositional reasoning**, and **AI agent applications**. 
 
-I am keen on exploring opportunities for collaboration in research or projects. If you are interested, please feel free to contact me.
+I am keen on exploring opportunities for collaboration in research or projects. If you are interested, please feel free to [contact me](scm102136@gmail.com).
 
 <span class='anchor' id='-edu'></span>
 
 # 🎓 Education
+<img class="svg" src="/images/logo-dartmouth.jpg" width="50pt"> <span style="color: #00693e;">**Dartmouth College**</span>
+<br>
+- *Sep. 2025 - Present*, PhD in Computer Science
+- [The Science and Art of Human-AI Systems (SAHAS) Lab](https://www.sahaslab.com/)
+- Research Direction: Model Interpretability, Compositionality, AI Agent Applications
+
+<!-- <div><br></div> -->
+<!-- <br> -->
+
 <img class="svg" src="/images/logo-thu.svg" width="50pt"> Tsinghua University 
 <br>
 - *Aug. 2022 - Present*, Master's Degree in Electronic and Information Engineering, GPA 3.93 / 4.00 (Top 5% of School)
