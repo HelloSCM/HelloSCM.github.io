@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Chenming SHANG (尚辰铭). I am currently a Ph.D. student (1st year) at Dartmouth College, coadvised by Prof. [Nikhil Singh](https://nsingh1.host.dartmouth.edu/) and Prof. [Adam Breuer](https://www.adambreuer.com/). Before that, I received my master’s degree from Tsinghua University supervised by Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN) in 2025, and my bachelor’s degree from Sun Yat‑sen University supervised by Prof. [Zhi Jin](https://scholar.google.com/citations?user=v70dNBoAAAAJ&hl=zh-CN&oi=ao) in 2022.
+🤓 Hi! I am Chenming SHANG (尚辰铭). I am currently a Ph.D. student (1st year) at Dartmouth College, coadvised by Prof. [Nikhil Singh](https://nsingh1.host.dartmouth.edu/) and Prof. [Adam Breuer](https://www.adambreuer.com/). Before that, I received my master’s degree from Tsinghua University supervised by Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN) in 2025, and my bachelor’s degree from Sun Yat‑sen University supervised by Prof. [Zhi Jin](https://scholar.google.com/citations?user=v70dNBoAAAAJ&hl=zh-CN&oi=ao) in 2022.
 
-My research interests lie in **cognitive science-inspired AI** and **trustworthy AI** in multimodal models, including **interpretability** and **robustness**. The research topics I am currently interested in are **concept-based models**, **compositional reasoning**, and **AI agent applications**. 
+🤖 My research interests lie in **cognitive science-inspired AI** and **trustworthy AI** in multimodal models, including **interpretability** and **robustness**. The research topics I am currently interested in are **concept-based models**, **compositional reasoning**, and **AI agent applications**. 
 
-I am keen on exploring opportunities for collaboration in research or projects. If you are interested, please feel free to [contact me](scm102136@gmail.com).
+🚀 <span style="color: #c00000;">I am keen on exploring opportunities for collaboration in research or projects. If you are interested, please feel free to contact me.</span>
 
 <span class='anchor' id='-edu'></span>
 
