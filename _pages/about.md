@@ -37,7 +37,7 @@ redirect_from:
 
 <img class="svg" src="/images/logo-thu.svg" width="50pt"> <span style="color: #671372;">**Tsinghua University**</span>
 <br>
-- *Aug. 2022 - Present*, Master in Electronic and Information Engineering
+- *Sep. 2022 - Jun. 2025*, Master in Electronic and Information Engineering
 - GPA: 3.93 / 4.00 (Top 5% of School)
 - [Intelligent Interaction Group (IIGROUP)](https://iigroup.github.io/)
 - Master's Thesis: Brain-inspired Concept Representation Learning for Medical Applications
@@ -47,7 +47,7 @@ redirect_from:
 
 <img class="svg" src="/images/logo-sysu.png" width="50pt"> <span style="color: #014822;">**Sun Yat-sen University**</span>
 <br>
-- *Sep. 2018 - Jul. 2022*, Bachelor in Intelligent Science and Technology
+- *Sep. 2018 - Jun. 2022*, Bachelor in Intelligent Science and Technology
 - GPA: 3.9 / 4.0 (Top 5% of Major)
 - [Frontier Vision Lab](https://fvl2020.framer.website/)
 - Bachelor's Thesis: Back-door Intervention based Causal Machine Learning Algorithm for Confounders
