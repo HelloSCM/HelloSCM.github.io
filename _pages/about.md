@@ -58,7 +58,7 @@ redirect_from:
 # 💻 Interships
 <img class="svg" src="/images/logo-msra.png" width="60pt"> **Microsoft Research Asia**, Beijing 
 <br>
-- *Jun. 2024 - Mar. 2025*, Algorithm Research Intern, Transfer Learning and Multilingualism
+- *Jun. 2024 - Jan. 2025*, Algorithm Research Intern, Transfer Learning and Multilingualism
 
 <!-- <br> -->
 
