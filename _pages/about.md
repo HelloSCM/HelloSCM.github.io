@@ -239,7 +239,7 @@ Jia Tang\*, `Chenming Shang`\*, Yue Chang, Wei Jiang, Jun Xu, Leidan Zhang, Lian
 </div>
 
 <br>
-<span class='anchor' id='-awards'></span>
+<span class='anchor' id='-award'></span>
 
 # 🏅 Honors and Awards
 - National Scholarship
