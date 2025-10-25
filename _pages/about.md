@@ -259,12 +259,7 @@ Jia Tang\*, `Chenming Shang`\*, Yue Chang, Wei Jiang, Jun Xu, Leidan Zhang, Lian
 
 
 <span class='anchor' id='-leader'></span>
-# 📌 Leaderships
-- World Institute of Politics, Economy and Technology, Youth Researcher
-- Research Center for Chinese Global Youth Summit, Youth Researcher
-- Young Sustainable Impact, Member
-- National Supercomputer Center in Guangzhou, Popular Science Narrator
-- THU-SIGS Global Governance and International Organization Development Association, Vice President
-- Tsinghua University SIGS Career Development Center, Student Assistant
-- SYSU School of Intelligent Systems Engineering Men's Football Team, Captain
-- Sun Yat-sen University English Debate Team, Member
+# 😼 Mascot
+- I have a pet cat (a Chinese domestic cat breed known for its fluffy mane resembling a lion) named **Simba**. He was born on April 20, 2025, and I hope he can bring good luck to you and me! 💓
+
+<img width="1706" height="2273" alt="simba" src="https://github.com/user-attachments/assets/879e4fdb-c719-4c6f-b85e-85c73e56a55b" />
