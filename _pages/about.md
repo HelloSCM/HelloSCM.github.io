@@ -180,7 +180,7 @@ Hengyuan Zhang, Dawei Li, Yanran Li, `Chenming Shang`, Chufan Shi, Yong Jiang
 <div class='paper-box-text' markdown="1">
 **Find Your Optimal Teacher: Personalized Data Synthesis via Router‑Guided Multi Teacher Distillation**
 
-Hengyuan Zhang, Shiping Yang, Xiao Liang, `Chenming Shang`
+Hengyuan Zhang, Shiping Yang, Xiao Liang, `Chenming Shang`, Yuxuan Jiang, Chaofan Tao, Jing Xiong, Hayden Kwok-Hay So, Ruobing Xie, Angel X. Chang, Ngai Wong
 </div>
 </div>
 
