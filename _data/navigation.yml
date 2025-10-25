@@ -13,9 +13,10 @@ main:
     url: "/#-pub"
 
   - title: "Honors and Awards"
-    url: "/#-awards"
+    url: "/#-award"
 
   - title: "Mascot"
     url: "/#-mascot"
+
 
 
