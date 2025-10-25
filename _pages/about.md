@@ -29,7 +29,7 @@ redirect_from:
 <img class="svg" src="/images/logo-dartmouth.jpg" width="40pt"> <span style="color: #00693e;">**Dartmouth College**</span>
 <br>
 - *Sep. 2025 - Present*, Ph.D. in Computer Science
-- [Science and Art of Human-AI Systems (SAHAS) Lab](https://www.sahaslab.com/)
+- [Science and Art of Human-AI Systems (SAHAS) Lab](https://www.sahaslab.com/) and [Breuer's Lab](https://www.adambreuer.com/papers)
 - Research Direction: Model Interpretability, Compositionality, AI Agent Applications
 
 <!-- <div><br></div> -->
