@@ -262,5 +262,5 @@ Jia Tang\*, `Chenming Shang`\*, Yue Chang, Wei Jiang, Jun Xu, Leidan Zhang, Lian
 # 😼 Mascot
 - I have a pet cat (a Chinese domestic cat breed known for its fluffy mane resembling a lion) named **Simba**. He was born on April 20, 2025, and I hope he can bring good luck to you and me! 💓
 
-<img width="3432" height="1910" alt="Simba" src="https://github.com/user-attachments/assets/44007d40-c585-4cde-8025-78a96ee0102d" />
+<img width="3000" height="1670" alt="Simba" src="https://github.com/user-attachments/assets/44007d40-c585-4cde-8025-78a96ee0102d" />
 
