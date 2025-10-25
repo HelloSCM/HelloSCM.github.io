@@ -239,7 +239,7 @@ Jia Tang\*, `Chenming Shang`\*, Yue Chang, Wei Jiang, Jun Xu, Leidan Zhang, Lian
 </div>
 
 <br>
-<span class='anchor' id='-honor'></span>
+<span class='anchor' id='-awards'></span>
 
 # 🏅 Honors and Awards
 - National Scholarship
@@ -258,7 +258,7 @@ Jia Tang\*, `Chenming Shang`\*, Yue Chang, Wei Jiang, Jun Xu, Leidan Zhang, Lian
 - Contemporary Undergraduate Mathematical Contest in Modeling, 2nd Prize
 
 
-<span class='anchor' id='-leader'></span>
+<span class='anchor' id='-mascot'></span>
 # 😼 Mascot
 - I have a pet cat (a Chinese domestic cat breed known for its fluffy mane resembling a lion) named **Simba**. He was born on April 20, 2025, and I hope he can bring good luck to you and me! 💓
 
