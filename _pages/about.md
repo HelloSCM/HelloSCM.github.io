@@ -241,7 +241,7 @@ Jia Tang\*, `Chenming Shang`\*, Yue Chang, Wei Jiang, Jun Xu, Leidan Zhang, Lian
 <br>
 <span class='anchor' id='-award'></span>
 
-# 🏅 Honors and Awards
+# 🏅 Awards
 - National Scholarship
 - Samsung Scholarship
 - Tsinghua University Comprehensive First-Class Scholarship
