@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: About
-seo_title: Chenming Shang | Academic Homepage
+seo_title: Chenming Shang | Personal Homepage
 ---
 
 <div class="about-profile" markdown="1">
