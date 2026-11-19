@@ -1,0 +1,43 @@
+<section class="experience-block" aria-labelledby="{{ include.id }}">
+  {% if include.id == "education" %}
+    {% assign heading_icon = "fa-graduation-cap" %}
+  {% else %}
+    {% assign heading_icon = "fa-laptop-code" %}
+  {% endif %}
+  <h2 id="{{ include.id }}"><i class="fa-solid {{ heading_icon }} heading-icon" aria-hidden="true"></i>{{ include.heading | escape }}</h2>
+  <ul class="experience-list" role="list">
+    {% for entry in include.entries %}
+    <li>
+      {% if entry.logo %}
+      <span class="experience-logo">
+        <img src="{{ entry.logo | relative_url | escape }}" alt="" width="50" height="50">
+      </span>
+      {% endif %}
+      <div class="experience-text">
+        <p class="experience-date">{{ entry.dates | escape }}</p>
+        <h3>{{ entry.organization | escape }}</h3>
+        <p class="experience-role">{{ entry.role | escape }}</p>
+        {% if entry.advisors %}
+        <p class="experience-details">
+          Advisor{% if entry.advisors.size > 1 %}s{% endif %}:
+          {%- for id in entry.advisors -%}
+            {%- assign advisor = site.data.advisors[id] -%}
+            {%- if forloop.first -%}{{ " " }}
+            {%- elsif forloop.last -%}{{ " and " }}
+            {%- else -%}{{ ", " }}
+            {%- endif -%}
+            <a href="{{ advisor.url | escape }}">Prof. {{ advisor.name | escape }}</a>
+          {%- endfor -%}
+        </p>
+        {% endif %}
+        {% if entry.gpa %}
+        <p class="experience-details">GPA: {{ entry.gpa | escape }}</p>
+        {% endif %}
+        {% if entry.details %}
+        <p class="experience-details">{{ entry.details | escape }}</p>
+        {% endif %}
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

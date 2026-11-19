@@ -1,0 +1,16 @@
+# Match each id to a publication's topic.
+- id: llms
+  label: LLMs
+  name: Large language models
+- id: mllms
+  label: MLLMs
+  name: Multimodal large language models and multimodal generation
+- id: agentic-ai
+  label: Agentic AI
+  name: AI agents and agentic systems
+- id: representation-learning
+  label: Representation Learning
+  name: Learning and analyzing model representations
+- id: interdisciplinarity
+  label: Interdisciplinarity
+  name: Research across disciplinary boundaries

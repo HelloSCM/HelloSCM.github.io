@@ -1,0 +1,211 @@
+# Archive numbers are assigned after sorting by year and authorship.
+main:
+  - title: "Displacement Geometry Captures Platonic Shared Reality Across Models and Modalities"
+    authors: "<span class=\"publication-self-author\">Chenming Shang</span>, Yujin Tang, Junjie Ouyang, Ruize Xu, Adam Breuer<sup title=\"Co-principal investigator\">†</sup>, Nikhil Singh<sup title=\"Co-principal investigator\">†</sup>"
+    conference_short: "NeurIPS"
+    conference: "NeurIPS 2026"
+    year: 2026
+    lead_author: true
+    selected: true
+    featured_order: 3
+    topic: representation-learning
+    paper: "https://arxiv.org/abs/2609.24209"
+    project: "https://breuerlabs.github.io/Platonic_Representation_Displacement/"
+    code: "https://github.com/BreuerLabs/Platonic_Representation_Displacement"
+    image: /assets/img/publications/displacement-geometry.png
+    image_alt: "The same New York to Chicago route shown across different maps and views"
+    author_note: "† Co-principal investigators"
+
+  - title: "Can LLMs Learn to Think at the Right Level? EvoCH: Self-Evolving Strategic Reasoning through Cognitive Hierarchy"
+    authors: "<span class=\"publication-self-author\">Chenming Shang</span>, Hengyuan Zhang, Ruize Xu, Junjie Ouyang, Xiaojuan Qi"
+    conference_short: "Under review"
+    conference: "Under review at ACL 2027"
+    year: 2026
+    lead_author: true
+    selected: true
+    featured_order: 2
+    topic: agentic-ai
+    image: /assets/img/publications/evoch.png
+    image_alt: "EvoCH framework for predicting an opponent's cognitive level and recursively selecting a response"
+
+  - title: "Naive-N0.5-Flash: Building Frontier AI with AI"
+    authors: "NaiveAI Team"
+    conference_short: "Technical Report"
+    conference: "Technical report, 2026"
+    year: 2026
+    selected: true
+    featured_order: 1
+    topic: llms
+    project: "https://naive.ai/en/research/"
+    code: "https://github.com/NaiveAI-Labs/Naive-N0.5-Flash"
+    image: /assets/img/publications/naive-n05-flash.png
+    image_alt: "Naive-N0.5-Flash hybrid SWA–DSA architecture and sparse attention indexer"
+
+  - title: "DMV-Bench: Diagnosing Long-Horizon Multimodal Agents' Visual Memory with Incidental Cue Injection"
+    authors: "Yujin Tang, <span class=\"publication-self-author\">Chenming Shang</span>, Ruize Xu, Nikhil Singh"
+    conference_short: "EMNLP"
+    conference: "EMNLP 2026"
+    year: 2026
+    topic: agentic-ai
+    paper: "https://arxiv.org/abs/2606.27499"
+    code: "https://github.com/yyyujintang/DMV-Bench"
+
+  - title: "How do World Models and Policies Compose in LLM Agents? A Joint Spectral and Behavioral Account"
+    authors: "Ruize Xu, Xiao Yu, Yujin Tang, <span class=\"publication-self-author\">Chenming Shang</span>, Nikhil Singh"
+    conference_short: "EMNLP Findings"
+    conference: "EMNLP 2026 Findings"
+    year: 2026
+    topic: agentic-ai
+    paper: "https://aclanthology.org/2026.findings-emnlp.1651/"
+
+  - title: "Find Your Optimal Teacher: Personalized Data Synthesis via Router-Guided Multi-Teacher Distillation"
+    authors: "Hengyuan Zhang, Shiping Yang, Xiao Liang, <span class=\"publication-self-author\">Chenming Shang</span>, Yuxuan Jiang, Chaofan Tao, Jing Xiong, Hayden Kwok-Hay So, Ruobing Xie, Angel X. Chang, Ngai Wong"
+    conference_short: "ACL"
+    conference: "ACL 2026"
+    year: 2026
+    topic: llms
+    paper: "https://aclanthology.org/2026.acl-long.666/"
+
+  - title: "Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models"
+    authors: "Hengyuan Zhang<sup title=\"Equal contribution\">*</sup>, Zhihao Zhang<sup title=\"Equal contribution\">*</sup>, Mingyang Wang, Zunhai Su, Yiwei Wang, Qianli Wang, Shuzhou Yuan, Ercong Nie, Xufeng Duan, Qibo Xue, Zeping Yu, <span class=\"publication-self-author\">Chenming Shang</span>, Xiao Liang, Jing Xiong, Hui Shen, Chaofan Tao, Zhengwu Liu, Senjie Jin, Zhiheng Xi, Dongdong Zhang, Sophia Ananiadou, Tao Gui, Ruobing Xie, Hayden Kwok Hay So, Hinrich Schütze, Xuanjing Huang, Qi Zhang, Ngai Wong<sup title=\"Corresponding author\">†</sup>"
+    conference_short: "CSR"
+    conference: "Computer Science Review"
+    year: 2026
+    topic: llms
+    paper: "https://doi.org/10.1016/j.cosrev.2026.101011"
+    author_note: "* Equal contribution · † Corresponding author"
+
+  - title: "Efficient Reasoning Exploration via State-Conditioned Latent Steering with Progress Guidance"
+    authors: "Hengyuan Zhang, <span class=\"publication-self-author\">Chenming Shang</span>, Zunhai Su, Xiao Liang, Hui Shen, Jing Xiong, Dawei Li, Shiping Yang, Kailai Yang, Wei Zhang, Ruobing Xie, Hayden Kwok-Hay So, Ngai Wong"
+    conference_short: "Under review"
+    conference: "Under review at ACL 2027"
+    year: 2026
+    topic: llms
+    paper: "https://arxiv.org/abs/2609.24066"
+    code: "https://github.com/rattlesnakey/SPS"
+
+  - title: "Do Language Models Have a Model of You? Discovering and Enhancing Latent Representations of User Personas"
+    authors: "Junjie Ouyang, Ruochen Jin, <span class=\"publication-self-author\">Chenming Shang</span>, Chenxi Lin, Nikhil Singh"
+    conference_short: "Under review"
+    conference: "Under review at ICLR 2027"
+    year: 2026
+    topic: llms
+
+  - title: "Compositional Generalization through Brain-inspired Geometric Constraints on Representation Structure"
+    authors: "<span class=\"publication-self-author\">Chenming Shang</span>, Shiji Zhou, Hengyuan Zhang, Xinchen Zhang, Yuwang Wang, Yujiu Yang"
+    conference_short: "Under review"
+    conference: "Under review at Nature Machine Intelligence"
+    year: 2025
+    lead_author: true
+    topic: representation-learning
+
+  - title: "ShifCon: Enhancing Non-Dominant Language Capabilities with a Shift-based Multilingual Contrastive Framework"
+    authors: "Hengyuan Zhang<sup title=\"Equal contribution\">*</sup>, <span class=\"publication-self-author\">Chenming Shang</span><sup title=\"Equal contribution\">*</sup>, Sizhe Wang, Dongdong Zhang<sup title=\"Corresponding author\">†</sup>, Yiyao Yu, Feng Yao, Renliang Sun, Yujiu Yang<sup title=\"Corresponding author\">†</sup>, Furu Wei"
+    conference_short: "ACL"
+    conference: "ACL 2025"
+    year: 2025
+    lead_author: true
+    topic: llms
+    paper: "https://aclanthology.org/2025.acl-long.239/"
+    code: "https://github.com/rattlesnakey/ShifCon"
+    author_note: "* Equal contribution · † Corresponding authors"
+
+  - title: "HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation"
+    authors: "Ling Yang, Xinchen Zhang, Ye Tian, <span class=\"publication-self-author\">Chenming Shang</span>, Minghao Xu, Wentao Zhang, Bin Cui"
+    conference_short: "NeurIPS"
+    conference: "NeurIPS 2025"
+    year: 2025
+    topic: mllms
+    paper: "https://arxiv.org/abs/2502.12148"
+    code: "https://github.com/Gen-Verse/HermesFlow"
+
+  - title: "Driving Expertise Shifts Neural Processing From Dorsal Visuospatial to Ventral Semantic-Executive Dominance During Hazard Detection"
+    authors: "Chen Zheng, Shanhe You, <span class=\"publication-self-author\">Chenming Shang</span>, Yangyang He, Ling Niu, Xiaoji Zheng, Han Wang, Ka I Chan, Bokui Chen, Yaqin Zhang, Jiangtao Gong"
+    conference_short: "TRF"
+    conference: "Transportation Research Part F: Traffic Psychology and Behaviour"
+    year: 2025
+    topic: interdisciplinarity
+
+  - title: "BDEKD: Mitigating Backdoor Attacks in NLP Models via Ensemble Knowledge Distillation"
+    authors: "Zijie Zhang, Xinyuan Miao, Chenyu Zhou, <span class=\"publication-self-author\">Chenming Shang</span>, Xi Chen, Xianglong Kong, Wei Huang, Yi Cao"
+    conference_short: "CIS"
+    conference: "Complex & Intelligent Systems"
+    year: 2025
+    topic: interdisciplinarity
+    paper: "https://link.springer.com/article/10.1007/s40747-025-02006-4"
+    code: "https://github.com/quanzhuangdefujinan/BDEKD-Research/tree/BDEKD"
+
+  - title: "AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance"
+    authors: "Zhao Wang, Hao Wen, Lingting Zhu, <span class=\"publication-self-author\">Chenming Shang</span>, Yujiu Yang, Qi Dou"
+    conference_short: "Preprint"
+    conference: "Preprint, 2025"
+    year: 2025
+    topic: mllms
+    paper: "https://arxiv.org/abs/2502.08189"
+    code: "https://github.com/AnyCharV/AnyCharV"
+
+  - title: "Incremental Residual Concept Bottleneck Models"
+    authors: "<span class=\"publication-self-author\">Chenming Shang</span>, Shiji Zhou, Hengyuan Zhang, Xinzhe Ni, Yujiu Yang<sup title=\"Corresponding author\">†</sup>, Yuwang Wang<sup title=\"Corresponding author\">†</sup>"
+    conference_short: "CVPR"
+    conference: "CVPR 2024"
+    year: 2024
+    lead_author: true
+    topic: representation-learning
+    paper: "https://openaccess.thecvf.com/content/CVPR2024/html/Shang_Incremental_Residual_Concept_Bottleneck_Models_CVPR_2024_paper.html"
+    code: "https://github.com/HelloSCM/Res-CBM"
+    author_note: "† Corresponding authors"
+
+  - title: "Understanding Multimodal Deep Neural Networks: A Concept Selection View"
+    authors: "<span class=\"publication-self-author\">Chenming Shang</span>, Hengyuan Zhang, Hao Wen, Yujiu Yang"
+    conference_short: "CogSci"
+    conference: "CogSci 2024"
+    year: 2024
+    lead_author: true
+    topic: representation-learning
+    paper: "https://arxiv.org/abs/2404.08964"
+    code: "https://github.com/HelloSCM/Concept_Selection"
+
+  - title: "Machine Learning-Based Metabolic Phenotyping of Stroke Rehabilitation"
+    authors: "Qingjia Zeng<sup title=\"Equal contribution\">*</sup>, <span class=\"publication-self-author\">Chenming Shang</span><sup title=\"Equal contribution\">*</sup>, Hongpu Hu"
+    conference_short: "Cell Symposia"
+    conference: "Cell Symposia, 2024"
+    year: 2024
+    lead_author: true
+    topic: interdisciplinarity
+    author_note: "* Equal contribution"
+
+  - title: "A Question-centric Multi-experts Contrastive Learning Framework for Improving the Accuracy and Interpretability of Deep Sequential Knowledge Tracing Models"
+    authors: "Hengyuan Zhang, Zitao Liu, <span class=\"publication-self-author\">Chenming Shang</span>, Dawei Li, Yong Jiang"
+    conference_short: "TKDD"
+    conference: "ACM Transactions on Knowledge Discovery from Data"
+    year: 2024
+    topic: llms
+    paper: "https://dl.acm.org/doi/10.1145/3674840"
+    code: "https://github.com/rattlesnakey/Q-MCKT"
+
+  - title: "Peripheral PD-1+NK Cells Could Predict the 28-day Mortality in Sepsis Patients"
+    authors: "Jia Tang, <span class=\"publication-self-author\">Chenming Shang</span>, Yue Chang, Wei Jiang, Jun Xu, Leidan Zhang, Lianfeng Lu, Ling Chen, Xiaosheng Liu, Qingjia Zeng, Wei Cao, Taisheng Li"
+    conference_short: "Front. Immunol."
+    conference: "Frontiers in Immunology"
+    year: 2024
+    topic: interdisciplinarity
+    paper: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11215063/"
+
+  - title: "Assisting Language Learners: Automated Trans-Lingual Definition Generation via Contrastive Prompt Learning"
+    authors: "Hengyuan Zhang, Dawei Li, Yanran Li, <span class=\"publication-self-author\">Chenming Shang</span>, Chufan Shi, Yong Jiang"
+    conference_short: "ACL BEA"
+    conference: "ACL 2023 BEA Workshop"
+    year: 2023
+    topic: llms
+    paper: "https://arxiv.org/abs/2306.06058"
+
+  - title: "Seeing Health with Eyes: Feature Combination for Image-Based Human BMI Estimation"
+    authors: "Junjia Huang<sup title=\"Equal contribution\">*</sup>, <span class=\"publication-self-author\">Chenming Shang</span><sup title=\"Equal contribution\">*</sup>, Aolin Xiong, Yuxian Pang, Zhi Jin"
+    conference_short: "ICME"
+    conference: "ICME 2021"
+    year: 2021
+    lead_author: true
+    topic: interdisciplinarity
+    paper: "https://ieeexplore.ieee.org/document/9428234"
+    code: "https://github.com/FVL2020/Features_for_BMI_estimation"
+    author_note: "* Equal contribution"

@@ -1,0 +1,51 @@
+service:
+  - role: Reviewer
+    organization: ICLR, NeurIPS, CVPR, ACL, IJCV, TMLR, TMM, and Neurocomputing
+  - role: Youth Researcher
+    organization: World Institute of Politics, Economy and Technology
+  - role: Youth Researcher
+    organization: Research Center for Chinese Global Youth Summit
+  - role: Peer Career Consultant
+    organization: Tsinghua University SIGS Career Development Center
+  - role: Popular Science Narrator
+    organization: National Supercomputer Center in Guangzhou
+  - role: Vice President
+    organization: THU-SIGS Global Governance and International Organization Development Association
+  - role: Captain
+    organization: SYSU School of Intelligent Systems Engineering Men's Football Team
+
+competitions:
+  - year: 2022
+    result: Finalist
+    name: ECCV NICO Hybrid Context Generalization Challenge
+  - year: 2022
+    result: 9th Place
+    name: PCIC Causal Inference and Transfer Learning
+  - year: 2021
+    result: First Prize
+    name: China RPA+AI Developer Competition
+  - year: 2020
+    result: 7th Place
+    name: CVPR NTIRE Perceptual Extreme Super-Resolution
+  - year: 2020
+    result: 414th Place
+    name: Alibaba Global Mathematics Competition
+  - year: 2020
+    result: First Prize
+    name: College Student Intelligent Technology Application Competition
+  - year: 2020
+    result: 2nd Place
+    name: PricewaterhouseCoopers STEM Challenge
+  - year: 2019
+    result: Second Prize
+    name: Contemporary Undergraduate Mathematical Contest in Modeling
+
+scholarships:
+  - National Scholarship
+  - Samsung Scholarship
+  - Tsinghua University Comprehensive First-Class Scholarship
+  - Tsinghua SIGS Second-Class Scholarship
+  - Tsinghua University Practice Third-Class Scholarship
+  - Hong Kong University Postgraduate Scholarship
+  - Sun Yat-sen University Comprehensive First-Class Scholarship
+  - Sun Yat-sen University Academic Innovation Scholarship

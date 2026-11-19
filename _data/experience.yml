@@ -1,0 +1,45 @@
+education:
+  - organization: The University of Hong Kong
+    logo: /assets/img/experience/logo-hku.webp
+    role: Ph.D. in Electrical and Computer Engineering
+    dates: Sep 2026 – Sep 2029 (expected)
+    advisors: [xiaojuan_qi]
+  - organization: Dartmouth College
+    logo: /assets/img/experience/logo-dartmouth.jpg
+    role: Research Assistant
+    dates: Sep 2025 – Sep 2026
+    advisors: [adam_breuer, nikhil_singh]
+  - organization: Tsinghua University
+    logo: /assets/img/experience/logo-thu.svg
+    role: Master's in Electronic and Information Engineering
+    dates: Sep 2022 – Jun 2025
+    advisors: [yujiu_yang]
+    gpa: 3.93/4.00 (top 5% of program)
+  - organization: Sun Yat-sen University
+    logo: /assets/img/experience/logo-sysu.png
+    role: Bachelor's in Intelligent Science and Technology
+    dates: Sep 2018 – Jun 2022
+    advisors: [zhi_jin]
+    gpa: 3.9/4.0 (top 5% of major)
+
+internships:
+  - organization: Naive AI
+    logo: /assets/img/experience/logo-naive-ai.svg
+    role: Algorithm Research Intern · Agent Framework
+    dates: May 2026 – Present
+    details: Recursive self-improvement, AI for AI, and continual learning.
+  - organization: Microsoft Research Asia
+    logo: /assets/img/experience/logo-msra.png
+    role: Algorithm Research Intern · AI for Science Group
+    dates: Jun 2024 – Mar 2025
+    details: Transfer learning, multilingualism, AI for biology, and out-of-distribution generalization.
+  - organization: ByteDance
+    logo: /assets/img/experience/logo-bytedance.svg
+    role: Algorithm Engineering Intern · TikTok
+    dates: Jan 2024 – Jun 2024
+    details: Cold-start recommendation, transfer learning, and causal inference.
+  - organization: Shanghai Artificial Intelligence Laboratory
+    logo: /assets/img/experience/logo-pjlab.png
+    role: Algorithm Research Intern · Cross-Disciplinary Innovation Group
+    dates: Jan 2023 – Dec 2023
+    details: Model interpretability, compositional generalization, and representation learning.

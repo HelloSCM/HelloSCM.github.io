@@ -1,0 +1,45 @@
+title: Chenming Shang
+name_zh: 尚辰铭
+position: Ph.D. Student
+affiliation: The University of Hong Kong
+affiliation_link: https://www.hku.hk/
+email: shangchenming@yeah.net
+
+# User site: url=https://USERNAME.github.io, baseurl=""
+# Project site: url=https://USERNAME.github.io, baseurl="/REPOSITORY"
+# The Pages workflow sets both automatically from your repository settings.
+url: https://helloscm.github.io
+baseurl: ""
+lang: en-US
+description: Chenming Shang is a Ph.D. student at the University of Hong Kong working on self-evolving agents and representation learning.
+google_site_verification: ""
+enable_last_update: false
+
+avatar: /assets/img/chenming-shang.jpg
+google_scholar: https://scholar.google.com/citations?user=XQHqeVQAAAAJ
+orcid: ""
+github_link: https://github.com/HelloSCM
+linkedin: https://www.linkedin.com/in/chenming-shang-98962b387/
+
+# Off by default. See README before enabling; API key belongs in GitHub Secrets.
+scholar:
+  enabled: false
+  profile_id: ""
+
+# Off by default; never sends visitors to the template author's analytics.
+analytics:
+  goatcounter_code: ""
+  show_count: false
+
+exclude:
+  - scripts
+  - tests
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - THIRD_PARTY_NOTICES.md
+  - vendor
+  - .bundle
+  - .github
+  - .venv

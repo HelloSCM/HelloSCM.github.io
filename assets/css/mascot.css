@@ -1,0 +1,11 @@
+.mascot-photo {
+  width: min(800px, 100%);
+  margin: 0 auto;
+}
+
+.mascot-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}

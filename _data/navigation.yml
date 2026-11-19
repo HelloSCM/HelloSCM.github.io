@@ -1,0 +1,10 @@
+# Display order is reversed by the navigation include.
+main:
+  - title: "Mascot"
+    url: /mascot/
+  - title: "Activities"
+    url: /activities/
+  - title: "Publications"
+    url: /publications/
+  - title: "About"
+    url: /
