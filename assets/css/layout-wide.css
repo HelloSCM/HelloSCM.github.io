@@ -45,6 +45,45 @@
   .layout-wide .wrapper > section { padding-top: calc(var(--site-nav-height) + 34px); }
 }
 
+@media screen and (prefers-reduced-motion: no-preference) {
+  @view-transition { navigation: auto; }
+
+  .layout-wide > .topnav { view-transition-name: page-navigation; }
+
+  ::view-transition { background: var(--global-bg-color); }
+
+  ::view-transition-group(root),
+  ::view-transition-group(page-navigation) { animation: none; }
+  ::view-transition-group(page-navigation) { z-index: 1; }
+
+  ::view-transition-old(page-navigation) { display: none; }
+
+  ::view-transition-new(page-navigation) {
+    animation: none;
+    mix-blend-mode: normal;
+  }
+
+  ::view-transition-old(root),
+  ::view-transition-new(root) {
+    mix-blend-mode: normal;
+    transform-origin: center top;
+    backface-visibility: hidden;
+  }
+
+  ::view-transition-old(root) { animation: page-turn-out 160ms ease-out both; }
+  ::view-transition-new(root) { animation: page-turn-in 260ms ease-out 90ms both; }
+}
+
+@keyframes page-turn-out {
+  from { opacity: 1; transform: perspective(1600px) translateX(0) rotateY(0); }
+  to { opacity: 0; transform: perspective(1600px) translateX(-18px) rotateY(-10deg); }
+}
+
+@keyframes page-turn-in {
+  from { opacity: 0; transform: perspective(1600px) translateX(18px) rotateY(10deg); }
+  to { opacity: 1; transform: perspective(1600px) translateX(0) rotateY(0); }
+}
+
 @media print {
   .layout-wide .wrapper { width: 100%; }
   .layout-wide .wrapper > section { padding-top: 0; }
