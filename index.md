@@ -24,7 +24,7 @@ I am currently a 1st year Ph.D. student at the University of Hong Kong, advised 
 
 My research interest lies in **Self‑evolving Agent and Representation Learning**. The research topics I am currently interested in are data recursive self‑improvement, self‑evolving agent in dynamic environment, and multi‑agent world simulation.
 
-<p class="about-collaboration">I am keen on exploring opportunities for collaboration in research or projects. If you are interested, please feel free to contact me.</p>
+<p class="about-collaboration">I am keen on exploring opportunities for collaboration in research or projects. If you are interested, please feel free to contact me. Email: <a href="mailto:{{ site.email | escape }}">{{ site.email | escape }}</a></p>
 
 </div>
 
