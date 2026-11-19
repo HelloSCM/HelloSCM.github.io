@@ -1,7 +1,13 @@
-/* Add a black background color to the top navigation */
+:root { --site-nav-height: 64px; }
+
+@media screen and (max-width: 960px) {
+  :root { --site-nav-height: 60px; }
+}
+
 .topnav {
-    background-color: #13294B;
-    min-height: 46px;
+    background: var(--site-navigation, #101a36);
+    box-shadow: 0 4px 18px #091e4229;
+    min-height: var(--site-nav-height);
     overflow: hidden;
 	  position:fixed;
 	  z-index:999;
@@ -12,6 +18,7 @@
   .topnav .nav-controls {
     display: flex;
     align-items: center;
+    gap: 6px;
     float: right;
   }
 
@@ -35,10 +42,10 @@
   .topnav .site-brand {
     display: inline-flex;
     align-items: center;
-    height: 46px;
+    height: var(--site-nav-height);
     margin-left:30%;
     color: #f2f2f2;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 300;
     line-height: 1;
     white-space: nowrap;
@@ -53,23 +60,26 @@
 
   /* Style the links inside the navigation bar */
   .topnav a.normal {
+    display: flex;
+    align-items: center;
+    min-height: var(--site-nav-height);
     color: #f2f2f2;
     text-align: center;
-    padding: 10px 9px;
+    padding: 0 12px;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 18px;
   }
 
   /* Change the color of links on hover */
   .topnav a.normal[aria-current="page"] {
     font-weight: 400;
     background-color: rgba(255, 255, 255, 0.12);
-    box-shadow: inset 0 -2px 0 #9bc5ed;
+    box-shadow: inset 0 -2px 0 #7eebdd;
   }
 
   .topnav a.normal:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: rgb(158 212 255 / 16%);
+    color: #fff;
   }
 
   /* Align the link group with the page content. */
@@ -88,7 +98,7 @@
       }
 
     .topnav a.normal {
-        padding: 10px 5px;
+        padding-inline: 8px;
     }
 
    }
@@ -180,15 +190,16 @@
         float: none;
         padding: 14px 16px;
         text-decoration: none;
-        font-size: 16px;
         display: block;
+        min-height: 0;
       }
 
       .topnav button.icon {
         color: white;
         display: block;
-        padding: 10px 16px;
-        font-size: 17px;
+        height: var(--site-nav-height);
+        padding: 0 16px;
+        font-size: 20px;
         position: absolute;
         float: right;
         right: 0;
@@ -211,9 +222,9 @@
 
 /* Keep the theme control visible beside the menu on narrow screens. */
 .topnav .theme-toggle {
-    flex: 0 0 44px;
-    width: 44px;
-    height: 44px;
+    flex: 0 0 48px;
+    width: 48px;
+    height: var(--site-nav-height);
     padding: 0;
     border: 0;
     border-radius: 0;
@@ -226,6 +237,11 @@
 
 .topnav .theme-toggle:not([hidden]) {
     display: inline-flex;
+}
+
+.topnav .theme-toggle svg {
+    width: 24px;
+    height: 24px;
 }
 
 .topnav .theme-toggle:hover {
@@ -250,6 +266,6 @@ html[data-theme="dark"] .theme-toggle .theme-sun {
     .topnav .theme-toggle {
         position: absolute;
         top: 0;
-        right: calc(5% + 48px);
+        right: calc(5% + 58px);
     }
 }

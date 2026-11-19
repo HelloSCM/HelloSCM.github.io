@@ -16,7 +16,7 @@
   function applyTheme(theme) {
     root.setAttribute("data-theme", theme);
     const themeColor = document.querySelector('meta[name="theme-color"]');
-    if (themeColor) themeColor.content = theme === "dark" ? "#121212" : "#ffffff";
+    if (themeColor) themeColor.content = theme === "dark" ? "#0b1426" : "#f3f6fc";
     if (button) {
       const label = theme === "dark" ? "Switch to light mode" : "Switch to dark mode";
       button.setAttribute("aria-label", label);

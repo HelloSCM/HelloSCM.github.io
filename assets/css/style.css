@@ -7,7 +7,7 @@ body { background-color: #fff; padding: 0px; font: 16px/1.5 "Crimson Pro", serif
 .heading-icon {
   width: 1.05em;
   margin-inline-end: 0.45em;
-  color: var(--global-theme-color);
+  color: inherit;
   font-size: 0.75em;
   vertical-align: 0.08em;
   text-align: center;

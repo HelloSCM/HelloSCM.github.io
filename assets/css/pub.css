@@ -1,5 +1,3 @@
-:root { --global-bg-color: #ffffff; --global-code-bg-color: rgba(181, 9, 172, 0.05); --global-text-color: #000000; --global-text-color-light: #828282; --global-theme-color: #13294B; --global-hover-color: #ffb81c; --global-footer-bg-color: #1c1c1c; --global-footer-text-color: #e8e8e8; --global-footer-link-color: #ffffff; --global-distill-app-color: #828282; }
-
 blockquote { background: var(--global-bg-color); border-left: 2px solid var(--global-theme-color); margin: 1.5em 10px; padding: 0.5em 10px; font-size: 1.2rem; }
 
 @media print, screen and (min-width: 480px) {.col-sm-9 {width: 100%;}}
@@ -65,10 +63,8 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
     padding: 12px;
     border: 1px solid var(--global-theme-color);
     border-radius: 8px;
-    background: #f1f6fc;
+    background: var(--site-panel);
 }
-
-html[data-theme="dark"] .publication-filters { background: #192331; }
 
 .publication-filters button {
     padding: 4px 11px;
@@ -116,7 +112,7 @@ html[data-theme="dark"] .publication-filters button[aria-pressed="true"] { color
     padding: 0.1rem 0.5rem;
     border: 1px solid transparent;
     border-radius: 999px;
-    background: #13294b;
+    background: #34569d;
     color: #fff;
     font-size: 0.64rem;
     font-weight: 600;
@@ -124,14 +120,10 @@ html[data-theme="dark"] .publication-filters button[aria-pressed="true"] { color
     white-space: nowrap;
 }
 
-.publications .publication-topic[data-topic="machine-learning"] { background: #176763; }
-.publications .publication-topic[data-topic="combustion"] { background: #a6491d; }
-.publications .publication-topic[data-topic="review"] { background: #66518c; }
-
-html[data-theme="dark"] .publications .publication-topic { background: #356592; }
-html[data-theme="dark"] .publications .publication-topic[data-topic="machine-learning"] { background: #25756c; }
-html[data-theme="dark"] .publications .publication-topic[data-topic="combustion"] { background: #b45a2a; }
-html[data-theme="dark"] .publications .publication-topic[data-topic="review"] { background: #766096; }
+.publications .publication-topic[data-topic="mllms"] { background: #5750a1; }
+.publications .publication-topic[data-topic="agentic-ai"] { background: #166960; }
+.publications .publication-topic[data-topic="representation-learning"] { background: #286181; }
+.publications .publication-topic[data-topic="interdisciplinarity"] { background: #69547d; }
 
 .publications .links .publication-action,
 .publications .links a.btn {
@@ -295,7 +287,7 @@ html[data-theme="dark"] .bibtex-dialog-actions button { color: #13294b; }
     line-height: 1;
     margin: 2rem 0 1.25rem;
     text-align: right;
-    scroll-margin-top: 5rem;
+    scroll-margin-top: calc(var(--site-nav-height) + 32px);
 }
 
 .publications .year:first-child { margin-top: 0; }
@@ -456,7 +448,7 @@ html[data-theme="dark"] .publications .publication-citations {
     max-height: 132px;
     margin-inline: auto;
     border-radius: 8px;
-    box-shadow: 3px 3px 6px #888;
+    box-shadow: var(--site-shadow);
 }
 
 .image.avatar img {

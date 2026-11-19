@@ -1,5 +1,5 @@
 {% if include.selected_only %}
-<h2 id="selected-publications" class="selected-publications-heading"><i class="fa-solid fa-book-open heading-icon" aria-hidden="true"></i><a href="{{ '/publications/' | relative_url }}">Selected Publications</a></h2>
+<h2 id="selected-publications" class="selected-publications-heading"><i class="fa-solid fa-book-open heading-icon" aria-hidden="true"></i><a href="{{ '/publications/' | relative_url }}">Selected Projects</a></h2>
 {% else %}
 <h1 id="publications" class="page-title"><i class="fa-solid fa-book-open heading-icon" aria-hidden="true"></i>Publications</h1>
 {% if site.google_scholar and site.google_scholar != empty %}
@@ -66,14 +66,14 @@
       {% if paper_topic %}
       <span class="publication-topic" title="{{ paper_topic.name | escape }}">{{ paper_topic.label | escape }}</span>
       {% endif %}
-      {% if link.code %}
-      <a href="{{ link.code | relative_url | escape }}" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">Code</a>
+      {% if link.project %}
+      <a href="{{ link.project | relative_url | escape }}" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">Project</a>
       {% endif %}
       {% if link.paper %}
       <a href="{{ link.paper | relative_url | escape }}" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">Paper</a>
       {% endif %}
-      {% if link.project %}
-      <a href="{{ link.project | relative_url | escape }}" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">Project</a>
+      {% if link.code %}
+      <a href="{{ link.code | relative_url | escape }}" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">Code</a>
       {% endif %}
     </div>
     {% endif %}

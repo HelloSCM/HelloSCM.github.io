@@ -4,6 +4,8 @@ title: About
 seo_title: Chenming Shang | Academic Homepage
 ---
 
+<div class="about-profile" markdown="1">
+
 <div class="about-heading">
   <h1 id="about-me">{{ site.title | escape }} <span class="about-name-zh" lang="zh-Hans">{{ site.name_zh | escape }}</span></h1>
 </div>
@@ -23,6 +25,8 @@ I am currently a 1st year Ph.D. student at the University of Hong Kong, advised 
 My research interest lies in **Self‑evolving Agent and Representation Learning**. The research topics I am currently interested in are data recursive self‑improvement, self‑evolving agent in dynamic environment, and multi‑agent world simulation.
 
 <p class="about-collaboration">I am keen on exploring opportunities for collaboration in research or projects. If you are interested, please feel free to contact me.</p>
+
+</div>
 
 </div>
 

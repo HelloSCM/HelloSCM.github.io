@@ -19,7 +19,7 @@
   width: 100%;
   float: none;
   margin: 0;
-  padding: 100px 0 40px;
+  padding: calc(var(--site-nav-height) + 54px) 0 40px;
   border: 0;
 }
 
@@ -32,7 +32,7 @@
 .publication-legend { margin: -12px 0 0; font-size: 14px; }
 
 @media screen and (max-width: 600px) {
-  .layout-wide .wrapper > section { padding-top: 80px; }
+  .layout-wide .wrapper > section { padding-top: calc(var(--site-nav-height) + 34px); }
 }
 
 @media print {

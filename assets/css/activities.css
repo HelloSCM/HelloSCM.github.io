@@ -5,7 +5,7 @@
   margin: 36px 0 20px;
   color: var(--global-theme-color);
   font-size: clamp(24px, 3vw, 28px);
-  scroll-margin-top: 76px;
+  scroll-margin-top: calc(var(--site-nav-height) + 30px);
 }
 
 .academic-activities .activities-heading::after {

@@ -1,0 +1,19 @@
+.site-particles { display: none; }
+
+@media screen {
+  body {
+    isolation: isolate;
+    background-image:
+      radial-gradient(ellipse at 8% 0%, var(--site-glow-blue), transparent 48%),
+      radial-gradient(ellipse at 100% 80%, var(--site-glow-teal), transparent 47%);
+    background-attachment: fixed;
+  }
+
+  .site-particles {
+    display: block;
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+  }
+}

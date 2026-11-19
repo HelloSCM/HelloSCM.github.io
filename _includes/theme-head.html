@@ -12,8 +12,10 @@
     }
     document.documentElement.setAttribute("data-theme", theme);
     var themeColor = document.querySelector('meta[name="theme-color"]');
-    if (themeColor) themeColor.content = theme === "dark" ? "#121212" : "#ffffff";
+    if (themeColor) themeColor.content = theme === "dark" ? "#0b1426" : "#f3f6fc";
   })();
 </script>
 <link rel="stylesheet" href="{{ '/assets/css/theme.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+<link rel="stylesheet" href="{{ '/assets/css/background.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 <script src="{{ '/assets/js/theme.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
+<script src="{{ '/assets/js/particles.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
