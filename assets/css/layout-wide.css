@@ -1,6 +1,7 @@
 .layout-wide {
   --site-content-width: 1040px;
   --site-content-gutter: 15px;
+  --site-nav-content-width: 1120px;
 }
 
 .layout-wide .wrapper {
@@ -10,8 +11,10 @@
 }
 
 @media screen and (min-width: 961px) {
-  .layout-wide .topnav .site-brand { margin-left: max(var(--site-content-gutter), calc((100% - var(--site-content-width)) / 2)); }
-  .layout-wide .topnav .nav-controls { margin-right: max(var(--site-content-gutter), calc((100% - var(--site-content-width)) / 2)); }
+  html { scrollbar-gutter: stable; }
+
+  .layout-wide .topnav .site-brand { margin-left: max(var(--site-content-gutter), calc((100% - var(--site-nav-content-width)) / 2)); }
+  .layout-wide .topnav .nav-controls { margin-right: max(var(--site-content-gutter), calc((100% - var(--site-nav-content-width)) / 2)); }
 }
 
 .layout-wide .wrapper > section {
